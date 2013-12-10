@@ -1,0 +1,7 @@
+******************
+INSTRUCTIONS
+******************
+
+To use gallery images in the app, make sure you add them to the "gallery.plist" file.
+
+It is recommended that you save them as JPG files no larger than 1024x768

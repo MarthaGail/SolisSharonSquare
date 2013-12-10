@@ -1,0 +1,25 @@
+Contents of /Users/samanthaknight/Documents/MoLease2012/three20/src/Three20Network/Headers/Three20Network_Prefix.pch
+4.2.1 (Apple Inc. build 5666) (dot 3)
+-x
+objective-c
+-arch
+armv7
+-fmessage-length=0
+-pipe
+-std=c99
+-fpascal-strings
+-Os
+-isysroot
+/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+-gdwarf-2
+-mthumb
+-miphoneos-version-min=3.0
+-iquote
+-iquote
+-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/include
+-I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include
+-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/../three20
+-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/../../three20
+-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/../../three20
+-F/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos
+-F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks

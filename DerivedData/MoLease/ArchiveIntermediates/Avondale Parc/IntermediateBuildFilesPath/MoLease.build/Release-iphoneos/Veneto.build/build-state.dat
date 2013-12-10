@@ -1,0 +1,2061 @@
+TVeneto
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Info.plist" MoLease/MoLease-Info.plist
+cCpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/ResourceRules.plist"
+cSymLink "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/Veneto.app" "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app"
+cCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/main.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/main.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/AppDelegate.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HTFunctions.o" /Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTFunctions.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HTNotice.o" /Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotice.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004E30039C0000000000000110
+t1311769500
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D4F6A4700000000000001A7
+t1297050183
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93E13C00000000003532B0
+t1301537084
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004D99FB4B00000000000F9FE0
+t1301936971
+s1023968
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93E1FD00000000003E22F0
+t1301537277
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93E1E60000000000001466
+t1301537254
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004D99FE9200000000000002FE
+t1301937810
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004D99FEB600000000002B3AC0
+t1301937846
+s2833088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004D99FE9300000000000000CD
+t1301937811
+s205
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004D99FEA80000000000113080
+t1301937832
+s1126528
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004D93E0EE00000000000CEF20
+t1301537006
+s847648
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004D93E1420000000000001A58
+t1301537090
+s6744
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004D93E14E00000000000B0CA0
+t1301537102
+s724128
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D99FA7C0000000000000AA1
+t1301936764
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D99FAFA0000000000CA2AE0
+t1301936890
+s13249248
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/Availability.h
+c000000004D4F74C20000000000001B19
+t1297052866
+s6937
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/execinfo.h
+c000000004D4F6E900000000000000571
+t1297051280
+s1393
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2/libxml/tree.h
+c000000004D93E10E0000000000008F14
+t1301537038
+s36628
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2/libxml/xpath.h
+c000000004D93E10E0000000000003F47
+t1301537038
+s16199
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c000000004D93E10E0000000000004BF8
+t1301537038
+s19448
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/sys/sysctl.h
+c000000004D93DBA00000000000007D09
+t1301535648
+s32009
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/sys/types.h
+c000000004D93DBA10000000000002905
+t1301535649
+s10501
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/lib/libxml2.dylib
+c000000004D93E10F00000000001E1450
+t1301537039
+s1971280
+
+N/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004F1A6E4F00000000004374B0
+t1327132239
+s4420784
+
+N/Users/samanthaknight/Documents/MoLease2012/Client/../MoLease/Resources/Localizable.strings
+c000000004F38A4B70000000000000CBD
+t1329112247
+s3261
+
+N/Users/samanthaknight/Documents/MoLease2012/Client/../MoLease/Resources/Stylesheet.h
+c000000004F36EF57000000000000011A
+t1329000279
+s282
+i<Foundation/Foundation.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/Client/../MoLease/Resources/Stylesheet.m
+c000000004F399EE2000000000000109C
+t1329176290
+s4252
+i"Stylesheet.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/Client/en.lproj/amenities.plist
+c000000004F38538A00000000000007E5
+t1329091466
+s2021
+
+N/Users/samanthaknight/Documents/MoLease2012/Client/floorplans.plist
+c000000004F38312A0000000000000BA6
+t1329082666
+s2982
+
+N/Users/samanthaknight/Documents/MoLease2012/Client/gallery.plist
+c000000004F3862A10000000000000156
+t1329095329
+s342
+
+N/Users/samanthaknight/Documents/MoLease2012/Client/gallery/Instructions
+c000000004F36EF5700000000000000D4
+t1329000279
+s212
+
+N/Users/samanthaknight/Documents/MoLease2012/Client/gallery/image0.jpg
+c000000004F38611B0000000000060CC7
+t1329094939
+s396487
+
+N/Users/samanthaknight/Documents/MoLease2012/Client/gallery/image1.jpg
+c000000004F3861820000000000067D6D
+t1329095042
+s425325
+
+N/Users/samanthaknight/Documents/MoLease2012/Client/gallery/image2.jpg
+c000000004F3861670000000000078479
+t1329095015
+s492665
+
+N/Users/samanthaknight/Documents/MoLease2012/Client/gallery/image3.jpg
+c000000004F3861A4000000000006AFB9
+t1329095076
+s438201
+
+N/Users/samanthaknight/Documents/MoLease2012/Client/links.plist
+c000000004F3998B100000000000002F8
+t1329174705
+s760
+
+N/Users/samanthaknight/Documents/MoLease2012/Client/places.plist
+c000000004F36EFAE0000000000000270
+t1329000366
+s624
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/Veneto.app
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/Veneto.app.dSYM
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/libThree20.a
+c000000004F39AAF90000000000002360
+t1329179385
+s9056
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/libThree20Core.a
+c000000004F39AADE0000000000078AF0
+t1329179358
+s494320
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/libThree20Network.a
+c000000004F39AAE30000000000092B90
+t1329179363
+s600976
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/libThree20Style.a
+c000000004F39AAEB000000000021D8E0
+t1329179371
+s2218208
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/libThree20UI.a
+c000000004F39AAF70000000000B0A690
+t1329179383
+s11576976
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/libThree20UICommon.a
+c000000004F39AAE10000000000091A80
+t1329179361
+s596608
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/libThree20UINavigator.a
+c000000004F39AAEA0000000000112568
+t1329179370
+s1123688
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/libextThree20JSON+SBJSON.a
+c000000004F39AAEA0000000000039BA8
+t1329179370
+s236456
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/libextThree20XML.a
+c000000004F39AAEA0000000000018CF0
+t1329179370
+s101616
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/1.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/1_thumb.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/2.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/2_thumb.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/3.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/3_thumb.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/4.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/4_thumb.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/5.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/5_thumb.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/6.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/6_thumb.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Default-Portrait~ipad.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Default.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Default@2x.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Icon-72.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Icon.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Icon@2x.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Info.plist
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Instructions
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Localizable.strings
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/PkgInfo
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/ResourceRules.plist
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Three20.bundle
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/TradeGothic-Bold.otf
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/TradeGothic.otf
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Veneto
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/background.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/background@2x.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/background@iPad.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/en.lproj/HTNotifier.strings
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/en.lproj/amenities.plist
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/floorplans.plist
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/gallery.plist
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/header_apply.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/header_apply@2x.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/header_apply@iPad.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/header_floorplans.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/header_floorplans@2x.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/header_floorplans@iPad.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/header_links.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/header_links@2x.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/header_links@iPad.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/home_screen.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/home_screen@2x.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/home_screen@iPad.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_amenities.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_amenities@2x.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_amenities@iPad.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_apply.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_apply@2x.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_apply@iPad.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_events.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_events@2x.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_events@iPad.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_floorplans.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_floorplans@2x.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_floorplans@iPad.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_gallery.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_gallery@2x.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_gallery@iPad.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_links.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_links@2x.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_links@iPad.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_news.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_news@2x.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_news@iPad.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_places.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_places@2x.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_places@iPad.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_siteplan.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_siteplan@2x.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_siteplan@iPad.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_video.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_video@2x.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_video@iPad.png
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/image0.jpg
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/image1.jpg
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/image2.jpg
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/image3.jpg
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/links.plist
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/places.plist
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/AmenitiesViewController.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/AppDelegate.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/ApplyViewController.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/DDXMLDocument.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/DDXMLElement.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/DDXMLElementAdditions.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/DDXMLNode.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/FloorplanDetailViewController.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/FloorplansViewController.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HTFunctions.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HTNotice.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HTNotifier.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HTNotifier_Mac.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HTNotifier_iOS.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HomeViewController.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/LinksViewController.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/MoDataSource.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/MoTableViewController.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/NSStringAdditions.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/NewsDataSource.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/NewsModel.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/NewsViewController.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/Photo.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/PhotoSource.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/PhotoViewController.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/PlacesViewController.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/Stylesheet.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/Veneto.LinkFileList
+c000000004F39AAFE00000000000016D7
+t1329179390
+s5847
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Veneto.xcent
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.h
+c000000004F36EF57000000000000024A
+t1329000279
+s586
+i<UIKit/UIKit.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m
+c000000004F36EF570000000000001216
+t1329000279
+s4630
+i"AppDelegate.h"
+i"HTNotifier_iOS.h"
+i"HomeViewController.h"
+i"Stylesheet.h"
+i"PlacesViewController.h"
+i"FloorplansViewController.h"
+i"FloorplanDetailViewController.h"
+i"PhotoViewController.h"
+i"LinksViewController.h"
+i"ApplyViewController.h"
+i"NewsViewController.h"
+i"AmenitiesViewController.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/AmenitiesViewController.h
+c000000004F36EF570000000000000160
+t1329000279
+s352
+i<Foundation/Foundation.h>
+i"MoTableViewController.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/AmenitiesViewController.m
+c000000004F399E570000000000000662
+t1329176151
+s1634
+i"AmenitiesViewController.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/ApplyViewController.h
+c000000004F36EF5700000000000002BD
+t1329000279
+s701
+i<Foundation/Foundation.h>
+i<MessageUI/MessageUI.h>
+i"MoTableViewController.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/ApplyViewController.m
+c000000004F36EF570000000000001996
+t1329000279
+s6550
+i"ApplyViewController.h"
+i"MoDataSource.h"
+i"MoTableViewController.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplanDetailViewController.h
+c000000004F36F116000000000000029A
+t1329000726
+s666
+i<Foundation/Foundation.h>
+i<MessageUI/MessageUI.h>
+i"MoTableViewController.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplanDetailViewController.m
+c000000004F399B970000000000001A16
+t1329175447
+s6678
+i"FloorplanDetailViewController.h"
+i"MoDataSource.h"
+i"MoTableViewController.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplansViewController.h
+c000000004F36EF570000000000000171
+t1329000279
+s369
+i<Foundation/Foundation.h>
+i"MoTableViewController.h"
+i"MoTableViewController.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplansViewController.m
+c000000004F36EF570000000000000D75
+t1329000279
+s3445
+i"FloorplansViewController.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h
+c000000004F36EF570000000000000203
+t1329000279
+s515
+i<Foundation/Foundation.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.m
+c000000004F3992B80000000000001EAE
+t1329173176
+s7854
+i"HomeViewController.h"
+i"AppDelegate.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/LinksViewController.h
+c000000004F36EF57000000000000014B
+t1329000279
+s331
+i<Foundation/Foundation.h>
+i"MoTableViewController.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/LinksViewController.m
+c000000004F36EF570000000000000980
+t1329000279
+s2432
+i"LinksViewController.h"
+i"MoDataSource.h"
+i"MoTableViewController.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.h
+c000000004F36EF570000000000000279
+t1329000279
+s633
+i<Foundation/Foundation.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.m
+c000000004F36EF5700000000000008DD
+t1329000279
+s2269
+i"MoTableViewController.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/NewsViewController.h
+c000000004F36EF570000000000000162
+t1329000279
+s354
+i<Foundation/Foundation.h>
+i"MoTableViewController.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/NewsViewController.m
+c000000004F36EFAE0000000000000915
+t1329000366
+s2325
+i"NewsViewController.h"
+i"NewsDataSource.h"
+i"MoTableViewController.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PhotoViewController.h
+c000000004F36EF57000000000000012A
+t1329000279
+s298
+i<Foundation/Foundation.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PhotoViewController.m
+c000000004F36F1680000000000000543
+t1329000808
+s1347
+i"PhotoViewController.h"
+i"PhotoSource.h"
+i"Photo.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h
+c000000004F36EF570000000000000426
+t1329000279
+s1062
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.m
+c000000004F399C8C000000000000249F
+t1329175692
+s9375
+i"PlacesViewController.h"
+i<extThree20JSON/extThree20JSON.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch
+c000000004F36EF570000000000000160
+t1329000279
+s352
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i<Three20/Three20.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Models/../Photo.m
+c000000004F36EF5700000000000004B1
+t1329000279
+s1201
+i"Photo.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Models/MoDataSource.h
+c000000004F36EF5700000000000001DE
+t1329000279
+s478
+i<Foundation/Foundation.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Models/MoDataSource.m
+c000000004F36EF5700000000000002D0
+t1329000279
+s720
+i"MoDataSource.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Models/NewsDataSource.h
+c000000004F36EF57000000000000015E
+t1329000279
+s350
+i<Foundation/Foundation.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Models/NewsDataSource.m
+c000000004F36EF5700000000000007F8
+t1329000279
+s2040
+i"NewsDataSource.h"
+i"NewsModel.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Models/NewsModel.h
+c000000004F36EF570000000000000151
+t1329000279
+s337
+i<Foundation/Foundation.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Models/NewsModel.m
+c000000004F36EF570000000000001234
+t1329000279
+s4660
+i"NewsModel.h"
+i<extThree20XML/extThree20XML.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Models/PhotoSource.h
+c000000004F36EF570000000000000228
+t1329000279
+s552
+i<Foundation/Foundation.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Models/PhotoSource.m
+c000000004F36EF570000000000000A04
+t1329000279
+s2564
+i"PhotoSource.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Photo.h
+c000000004F36EF570000000000000283
+t1329000279
+s643
+i<Foundation/Foundation.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/Default-Portrait~ipad.png
+c000000004F38A0DF000000000000DF37
+t1329111263
+s57143
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/Default.png
+c000000004F38A1A20000000000006573
+t1329111458
+s25971
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/Default@2x.png
+c000000004F38A1760000000000010682
+t1329111414
+s67202
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/Stylesheet.h
+c000000004F36EF57000000000000011A
+t1329000279
+s282
+i<Foundation/Foundation.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/Three20.bundle
+c000000004F36EF570000000000000220
+t1329000279
+s544
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/TradeGothic-Bold.otf
+c000000004F36EF57000000000000532C
+t1329000279
+s21292
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/TradeGothic.otf
+c000000004F36EF570000000000005108
+t1329000279
+s20744
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/background.png
+c000000004F372448000000000000ED62
+t1329013832
+s60770
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/background@2x.png
+c000000004F372429000000000003017E
+t1329013801
+s196990
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/background@iPad.png
+c000000004F3722FC0000000000030B15
+t1329013500
+s199445
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/floorplans/1.png
+c000000004F382B38000000000001D95F
+t1329081144
+s121183
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/floorplans/1_thumb.png
+c000000004F372A44000000000000066B
+t1329015364
+s1643
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/floorplans/2.png
+c000000004F382B96000000000003683F
+t1329081238
+s223295
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/floorplans/2_thumb.png
+c000000004F372A750000000000000702
+t1329015413
+s1794
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/floorplans/3.png
+c000000004F382BE50000000000026BB1
+t1329081317
+s158641
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/floorplans/3_thumb.png
+c000000004F372AB0000000000000074B
+t1329015472
+s1867
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/floorplans/4.png
+c000000004F382C1F0000000000040ECE
+t1329081375
+s265934
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/floorplans/4_thumb.png
+c000000004F372AEF00000000000006BD
+t1329015535
+s1725
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/floorplans/5.png
+c000000004F382C78000000000001A7E3
+t1329081464
+s108515
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/floorplans/5_thumb.png
+c000000004F372B0B0000000000000734
+t1329015563
+s1844
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/floorplans/6.png
+c000000004F382CB60000000000027513
+t1329081526
+s161043
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/floorplans/6_thumb.png
+c000000004F372B2C000000000000075D
+t1329015596
+s1885
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/header_apply.png
+c000000004F36EFAE000000000000EA2F
+t1329000366
+s59951
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/header_apply@2x.png
+c000000004F36EFAE000000000002F6B0
+t1329000366
+s194224
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/header_apply@iPad.png
+c000000004F36EFAE000000000004124F
+t1329000366
+s266831
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/header_floorplans.png
+c000000004F3728C2000000000000F6BB
+t1329014978
+s63163
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/header_floorplans@2x.png
+c000000004F3728AA0000000000034EFB
+t1329014954
+s216827
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/header_floorplans@iPad.png
+c000000004F372897000000000004F7C6
+t1329014935
+s325574
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/header_links.png
+c000000004F384A00000000000000EE1E
+t1329089024
+s60958
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/header_links@2x.png
+c000000004F3849EC0000000000036532
+t1329089004
+s222514
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/header_links@iPad.png
+c000000004F3849C40000000000056545
+t1329088964
+s353605
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/home_screen.png
+c000000004F371DA90000000000004855
+t1329012137
+s18517
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/home_screen@2x.png
+c000000004F371D75000000000000C145
+t1329012085
+s49477
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/home_screen@iPad.png
+c000000004F372089000000000000EA74
+t1329012873
+s60020
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_amenities.png
+c000000004F38460E0000000000001030
+t1329088014
+s4144
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_amenities@2x.png
+c000000004F3845F600000000000023F0
+t1329087990
+s9200
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_amenities@iPad.png
+c000000004F3845A90000000000001836
+t1329087913
+s6198
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_apply.png
+c000000004F36EFAE0000000000000662
+t1329000366
+s1634
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_apply@2x.png
+c000000004F36EFAE0000000000000E0B
+t1329000366
+s3595
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_apply@iPad.png
+c000000004F36EFAE0000000000000FD1
+t1329000366
+s4049
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_events.png
+c000000004F36EF570000000000000CFA
+t1329000279
+s3322
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_events@2x.png
+c000000004F36EF5700000000000016B8
+t1329000279
+s5816
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_events@iPad.png
+c000000004F36EF570000000000000AE5
+t1329000279
+s2789
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_floorplans.png
+c000000004F3843AA00000000000006EF
+t1329087402
+s1775
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_floorplans@2x.png
+c000000004F3843980000000000000C98
+t1329087384
+s3224
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_floorplans@iPad.png
+c000000004F38438400000000000009F0
+t1329087364
+s2544
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_gallery.png
+c000000004F3845140000000000000736
+t1329087764
+s1846
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_gallery@2x.png
+c000000004F3845040000000000000EA5
+t1329087748
+s3749
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_gallery@iPad.png
+c000000004F3844E90000000000000CD6
+t1329087721
+s3286
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_links.png
+c000000004F3846E500000000000006B0
+t1329088229
+s1712
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_links@2x.png
+c000000004F3846D20000000000000CB0
+t1329088210
+s3248
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_links@iPad.png
+c000000004F3846AA0000000000000AFB
+t1329088170
+s2811
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_news.png
+c000000004F384761000000000000064D
+t1329088353
+s1613
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_news@2x.png
+c000000004F38473A0000000000000C53
+t1329088314
+s3155
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_news@iPad.png
+c000000004F3847260000000000000AA9
+t1329088294
+s2729
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_places.png
+c000000004F3844720000000000000AEE
+t1329087602
+s2798
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_places@2x.png
+c000000004F3844600000000000001605
+t1329087584
+s5637
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_places@iPad.png
+c000000004F38444700000000000012E6
+t1329087559
+s4838
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_siteplan.png
+c000000004F38432E000000000000069F
+t1329087278
+s1695
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_siteplan@2x.png
+c000000004F3843020000000000000BFE
+t1329087234
+s3070
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_siteplan@iPad.png
+c000000004F3842D70000000000000ABA
+t1329087191
+s2746
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_video.png
+c000000004F3847D5000000000000076A
+t1329088469
+s1898
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_video@2x.png
+c000000004F3847C30000000000000EA2
+t1329088451
+s3746
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icon_video@iPad.png
+c000000004F3847A50000000000000B7F
+t1329088421
+s2943
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icons/Icon-72.png
+c000000004F38405A0000000000001528
+t1329086554
+s5416
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icons/Icon.png
+c000000004F3840690000000000000ED7
+t1329086569
+s3799
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/icons/Icon@2x.png
+c000000004F38404300000000000021E5
+t1329086531
+s8677
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/en.lproj/InfoPlist.strings
+c000000004F36EF57000000000000002D
+t1329000279
+s45
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/en.lproj/MainWindow.xib
+c000000004F36EF570000000000003DD3
+t1329000279
+s15827
+
+N/Users/samanthaknight/Documents/MoLease2012/MoLease/main.m
+c000000004F36EF57000000000000015B
+t1329000279
+s347
+i<UIKit/UIKit.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTFunctions.h
+c000000004F36EF570000000000000B4D
+t1329000279
+s2893
+i<Foundation/Foundation.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTFunctions.m
+c000000004F36EF570000000000002737
+t1329000279
+s10039
+i<execinfo.h>
+i<sys/types.h>
+i<sys/sysctl.h>
+i"HTNotifier.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotice.h
+c000000004F36EF570000000000000841
+t1329000279
+s2113
+i<Foundation/Foundation.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotice.m
+c000000004F36EF57000000000000295B
+t1329000279
+s10587
+i"HTNotifier.h"
+i"DDXML.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotifier.h
+c000000004F36EF570000000000000BB8
+t1329000279
+s3000
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i"HTNotifierDelegate.h"
+i"HTFunctions.h"
+i"HTNotice.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotifier.m
+c000000004F36EF570000000000001E58
+t1329000279
+s7768
+i"HTNotifier.h"
+i"HTNotifier_iOS.h"
+i"HTNotifier_Mac.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotifierDelegate.h
+c000000004F36EF5700000000000006C1
+t1329000279
+s1729
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotifier_Mac.h
+c000000004F36EF570000000000000112
+t1329000279
+s274
+i<Cocoa/Cocoa.h>
+i"HTNotifier.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotifier_Mac.m
+c000000004F36EF570000000000000A26
+t1329000279
+s2598
+i"HTNotifier_Mac.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotifier_iOS.h
+c000000004F36EF570000000000000127
+t1329000279
+s295
+i<UIKit/UIKit.h>
+i"HTNotifier.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotifier_iOS.m
+c000000004F36EF570000000000000BAA
+t1329000279
+s2986
+i"HTNotifier_iOS.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/en.lproj/en.lproj/HTNotifier.strings
+c000000004F36EF5700000000000000DD
+t1329000279
+s221
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/DDXML.h
+c000000004F36EF570000000000000049
+t1329000279
+s73
+i"DDXMLNode.h"
+i"DDXMLElement.h"
+i"DDXMLDocument.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/DDXMLDocument.h
+c000000004F36EF570000000000000807
+t1329000279
+s2055
+i<Foundation/Foundation.h>
+i"DDXMLElement.h"
+i"DDXMLNode.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/DDXMLDocument.m
+c000000004F36EF570000000000000BC3
+t1329000279
+s3011
+i"DDXMLDocument.h"
+i"NSStringAdditions.h"
+i"DDXMLPrivate.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/DDXMLElement.h
+c000000004F36EF5700000000000006B0
+t1329000279
+s1712
+i<Foundation/Foundation.h>
+i"DDXMLNode.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/DDXMLElement.m
+c000000004F36EF570000000000004042
+t1329000279
+s16450
+i"DDXMLElement.h"
+i"NSStringAdditions.h"
+i"DDXMLPrivate.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/DDXMLElementAdditions.h
+c000000004F36EF570000000000000264
+t1329000279
+s612
+i<Foundation/Foundation.h>
+i"DDXML.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/DDXMLElementAdditions.m
+c000000004F36EF570000000000000C1D
+t1329000279
+s3101
+i"DDXMLElementAdditions.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/DDXMLNode.h
+c000000004F36EF570000000000001392
+t1329000279
+s5010
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/DDXMLNode.m
+c000000004F36EF57000000000000B90F
+t1329000279
+s47375
+i"DDXMLNode.h"
+i"DDXMLElement.h"
+i"DDXMLDocument.h"
+i"NSStringAdditions.h"
+i"DDXMLPrivate.h"
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/DDXMLPrivate.h
+c000000004F36EF570000000000000A61
+t1329000279
+s2657
+i"DDXMLNode.h"
+i"DDXMLElement.h"
+i"DDXMLDocument.h"
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/NSStringAdditions.h
+c000000004F36EF5700000000000000FB
+t1329000279
+s251
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+
+N/Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/NSStringAdditions.m
+c000000004F36EF570000000000000175
+t1329000279
+s373
+i"NSStringAdditions.h"
+
+N/Users/samanthaknight/Library/MobileDevice/Provisioning Profiles/7A040FA4-6752-4BCF-8185-86453CC620E9.mobileprovision
+c000000004F39A5EB0000000000001D42
+t1329178091
+s7490
+
+NMoLease/MoLease-Info.plist
+c000000004F36EFAE00000000000006BF
+t1329000366
+s1727
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/Client/../MoLease/Resources/Stylesheet.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/AmenitiesViewController.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/ApplyViewController.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplanDetailViewController.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplansViewController.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/LinksViewController.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/NewsViewController.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PhotoViewController.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/MoLease/Models/../Photo.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/MoLease/Models/MoDataSource.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/MoLease/Models/NewsDataSource.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/MoLease/Models/NewsModel.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/MoLease/Models/PhotoSource.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/MoLease/main.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTFunctions.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotice.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotifier.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotifier_Mac.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotifier_iOS.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/DDXMLDocument.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/DDXMLElement.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/DDXMLElementAdditions.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/DDXMLNode.m
+r0
+
+CBuild AST from /Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/NSStringAdditions.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf8de2f7ee2e9b441^849e357ee2e9b441^-168"[BWARN]warning: iPhone apps with a deployment target lower than 4.3 should include an armv6 architecture (current IPHONEOS_DEPLOYMENT_TARGET = "4.2", ARCHS = "armv7").1(21%IDEActivityLogMessage2@160"warning: iPhone apps with a deployment target lower than 4.3 should include an armv6 architecture (current IPHONEOS_DEPLOYMENT_TARGET = "4.2", ARCHS = "armv7").-350872190#18446744073709551615#0#-1#-----0#1#0#--18"Check dependencies
+
+CCodeSign "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app"
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/AmenitiesViewController.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/AmenitiesViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/AppDelegate.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s350872190.251685
+e350872191.282731
+r0
+xCompileC
+xDerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/AppDelegate.o
+x/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+oIn file included from <command-line>:0:
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch:14:32: error: Three20/Three20.h: No such file or directory
+oIn file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:11:
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h:14: error: cannot find interface declaration for 'TTViewController', superclass of 'HomeViewController'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h:14: error: cannot find protocol declaration for 'TTLauncherViewDelegate'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h:18: error: expected specifier-qualifier-list before 'TTLauncherView'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h:23: error: expected specifier-qualifier-list before 'TTImageView'
+oIn file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:12:
+o/Users/samanthaknight/Documents/MoLease2012/Client/../MoLease/Resources/Stylesheet.h:14: error: cannot find interface declaration for 'TTDefaultStyleSheet', superclass of 'Stylesheet'
+oIn file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:13:
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h:17: error: cannot find interface declaration for 'TTViewController', superclass of 'PlacesViewController'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h:17: error: cannot find protocol declaration for 'TTTabDelegate'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h:17: error: cannot find protocol declaration for 'TTURLRequestDelegate'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h:18: error: expected specifier-qualifier-list before 'TTTabStrip'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h:36: error: expected specifier-qualifier-list before 'TTImageView'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h:43: error: expected specifier-qualifier-list before 'TTImageView'
+oIn file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplansViewController.h:10,
+o                 from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:14:
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.h:11: error: cannot find interface declaration for 'TTTableViewController', superclass of 'MoTableViewController'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.h:15: error: expected specifier-qualifier-list before 'TTImageView'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.h:25: error: expected specifier-qualifier-list before 'TTImageView'
+oIn file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:15:
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplanDetailViewController.h:26: error: expected specifier-qualifier-list before 'TTImageView'
+oIn file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:16:
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PhotoViewController.h:16: error: cannot find interface declaration for 'TTPhotoViewController', superclass of 'PhotoViewController'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m: In function '-[AppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:32: warning: implicit declaration of function 'TTDINFO'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:38: error: 'TTURLRequestQueue' undeclared (first use in this function)
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:38: error: (Each undeclared identifier is reported only once
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:38: error: for each function it appears in.)
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:42: error: 'TTStyleSheet' undeclared (first use in this function)
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:42: warning: 'Stylesheet' may not respond to '+alloc'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:42: warning: (Messages without a matching method signature
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:42: warning: will be assumed to return 'id' and accept
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:42: warning: '...' as arguments.)
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:47: error: 'TTNavigator' undeclared (first use in this function)
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:47: error: 'navigator' undeclared (first use in this function)
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:52: error: 'TTURLMap' undeclared (first use in this function)
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:52: error: 'map' undeclared (first use in this function)
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:53: error: 'TTWebController' undeclared (first use in this function)
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:56: warning: 'FloorplansViewController' may not respond to '+class'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:57: warning: 'FloorplanDetailViewController' may not respond to '+class'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:58: warning: 'NewsViewController' may not respond to '+class'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:59: warning: 'PhotoViewController' may not respond to '+class'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:60: warning: 'LinksViewController' may not respond to '+class'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:61: warning: 'ApplyViewController' may not respond to '+class'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:63: warning: 'AmenitiesViewController' may not respond to '+class'
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:67: error: 'TTURLAction' undeclared (first use in this function)
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.me884407ee2e9b441^e55e487fe2e9b441^-6434"In file included from <command-line>:0:/Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch:14:32: error: Three20/Three20.h: No such file or directoryIn file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:11:/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h:14: error: cannot find interface declaration for 'TTViewController', superclass of 'HomeViewController'/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h:14: error: cannot find protocol declaration for 'TTLauncherViewDelegate'/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h:18: error: expected specifier-qualifier-list before 'TTLauncherView'/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h:23: error: expected specifier-qualifier-list before 'TTImageView'In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:12:/Users/samanthaknight/Documents/MoLease2012/Client/../MoLease/Resources/Stylesheet.h:14: error: cannot find interface declaration for 'TTDefaultStyleSheet', superclass of 'Stylesheet'In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:13:/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h:17: error: cannot find interface declaration for 'TTViewController', superclass of 'PlacesViewController'/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h:17: error: cannot find protocol declaration for 'TTTabDelegate'/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h:17: error: cannot find protocol declaration for 'TTURLRequestDelegate'/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h:18: error: expected specifier-qualifier-list before 'TTTabStrip'/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h:36: error: expected specifier-qualifier-list before 'TTImageView'/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h:43: error: expected specifier-qualifier-list before 'TTImageView'In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplansViewController.h:10,                 from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:14:/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.h:11: error: cannot find interface declaration for 'TTTableViewController', superclass of 'MoTableViewController'/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.h:15: error: expected specifier-qualifier-list before 'TTImageView'/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.h:25: error: expected specifier-qualifier-list before 'TTImageView'In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:15:/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplanDetailViewController.h:26: error: expected specifier-qualifier-list before 'TTImageView'In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:16:/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PhotoViewController.h:16: error: cannot find interface declaration for 'TTPhotoViewController', superclass of 'PhotoViewController'/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m: In function '-[AppDelegate application:didFinishLaunchingWithOptions:]':/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:32: warning: implicit declaration of function 'TTDINFO'/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:38: error: 'TTURLRequestQueue' undeclared (first use in this function)/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:38: error: (Each undeclared identifier is reported only once/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:38: error: for each function it appears in.)/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:42: error: 'TTStyleSheet' undeclared (first use in this function)/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:42: warning: 'Stylesheet' may not respond to '+alloc'/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:42: warning: (Messages without a matching method signature/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:42: warning: will be assumed to return 'id' and accept/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:42: warning: '...' as arguments.)/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:47: error: 'TTNavigator' undeclared (first use in this function)/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:47: error: 'navigator' undeclared (first use in this function)/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:52: error: 'TTURLMap' undeclared (first use in this function)/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:52: error: 'map' undeclared (first use in this function)/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:53: error: 'TTWebController' undeclared (first use in this function)/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:56: warning: 'FloorplansViewController' may not respond to '+class'/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:57: warning: 'FloorplanDetailViewController' may not respond to '+class'/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:58: warning: 'NewsViewController' may not respond to '+class'/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:59: warning: 'PhotoViewController' may not respond to '+class'/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:60: warning: 'LinksViewController' may not respond to '+class'/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:61: warning: 'ApplyViewController' may not respond to '+class'/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:63: warning: 'AmenitiesViewController' may not respond to '+class'/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m:67: error: 'TTURLAction' undeclared (first use in this function)35(21%IDEActivityLogMessage2@44"Three20/Three20.h: No such file or directory-350872191#40#130#2(36%IDEActivityLogHeaderInclusionMessage3@36"In file included from <command-line>-350872191#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@35"file://localhost/%3Ccommand-line%3E0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---2@118"Three20/Three20.h: No such file or directory in /Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch-350872191#18446744073709551615#0#-0#-4@86"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#---2#-4@86"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@92"Cannot find interface declaration for 'TTViewController', superclass of 'HomeViewController'-350872191#262#189#2(3@87"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m-350872191#18446744073709551615#0#-0#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^10#18446744073709551615#10#18446744073709551615#18446744073709551615#0#---2@180"Cannot find interface declaration for 'TTViewController', superclass of 'HomeViewController' in /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h-350872191#18446744073709551615#0#-0#-4@100"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#---2#-4@100"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#60"Cannot find interface declaration for '*', superclass of '*'--2@61"Cannot find protocol declaration for 'TTLauncherViewDelegate'-350872191#451#158#2(3@87"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m-350872191#18446744073709551615#0#-0#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^10#18446744073709551615#10#18446744073709551615#18446744073709551615#0#---2@149"Cannot find protocol declaration for 'TTLauncherViewDelegate' in /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h-350872191#18446744073709551615#0#-0#-4@100"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#---2#-4@100"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@57"Expected specifier-qualifier-list before 'TTLauncherView'-350872191#609#154#2(3@87"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m-350872191#18446744073709551615#0#-0#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^10#18446744073709551615#10#18446744073709551615#18446744073709551615#0#---2@145"Expected specifier-qualifier-list before 'TTLauncherView' in /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h-350872191#18446744073709551615#0#-0#-4@100"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h0000000000000000^17#18446744073709551615#17#18446744073709551615#18446744073709551615#0#---2#-4@100"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h0000000000000000^17#18446744073709551615#17#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@54"Expected specifier-qualifier-list before 'TTImageView'-350872191#763#151#2(3@87"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m-350872191#18446744073709551615#0#-0#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^10#18446744073709551615#10#18446744073709551615#18446744073709551615#0#---2@142"Expected specifier-qualifier-list before 'TTImageView' in /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h-350872191#18446744073709551615#0#-0#-4@100"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h0000000000000000^22#18446744073709551615#22#18446744073709551615#18446744073709551615#0#---2#-4@100"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.h0000000000000000^22#18446744073709551615#22#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@87"Cannot find interface declaration for 'TTDefaultStyleSheet', superclass of 'Stylesheet'-350872191#1006#184#2(3@87"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m-350872191#18446744073709551615#0#-0#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^11#18446744073709551615#11#18446744073709551615#18446744073709551615#0#---2@165"Cannot find interface declaration for 'TTDefaultStyleSheet', superclass of 'Stylesheet' in /Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/Stylesheet.h-350872191#18446744073709551615#0#-0#-4@90"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/Stylesheet.h0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#---2#-4@90"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Resources/Stylesheet.h0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#60"Cannot find interface declaration for '*', superclass of '*'--2@94"Cannot find interface declaration for 'TTViewController', superclass of 'PlacesViewController'-350872191#1282#193#2(3@87"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m-350872191#18446744073709551615#0#-0#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^12#18446744073709551615#12#18446744073709551615#18446744073709551615#0#---2@184"Cannot find interface declaration for 'TTViewController', superclass of 'PlacesViewController' in /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h-350872191#18446744073709551615#0#-0#-4@102"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h0000000000000000^16#18446744073709551615#16#18446744073709551615#18446744073709551615#0#---2#-4@102"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h0000000000000000^16#18446744073709551615#16#18446744073709551615#18446744073709551615#0#60"Cannot find interface declaration for '*', superclass of '*'--2@52"Cannot find protocol declaration for 'TTTabDelegate'-350872191#1475#151#2(3@87"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m-350872191#18446744073709551615#0#-0#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^12#18446744073709551615#12#18446744073709551615#18446744073709551615#0#---2@142"Cannot find protocol declaration for 'TTTabDelegate' in /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h-350872191#18446744073709551615#0#-0#-4@102"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h0000000000000000^16#18446744073709551615#16#18446744073709551615#18446744073709551615#0#---2#-4@102"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h0000000000000000^16#18446744073709551615#16#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@59"Cannot find protocol declaration for 'TTURLRequestDelegate'-350872191#1626#158#2(3@87"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m-350872191#18446744073709551615#0#-0#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^12#18446744073709551615#12#18446744073709551615#18446744073709551615#0#---2@149"Cannot find protocol declaration for 'TTURLRequestDelegate' in /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h-350872191#18446744073709551615#0#-0#-4@102"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h0000000000000000^16#18446744073709551615#16#18446744073709551615#18446744073709551615#0#---2#-4@102"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h0000000000000000^16#18446744073709551615#16#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@53"Expected specifier-qualifier-list before 'TTTabStrip'-350872191#1784#152#2(3@87"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m-350872191#18446744073709551615#0#-0#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^12#18446744073709551615#12#18446744073709551615#18446744073709551615#0#---2@143"Expected specifier-qualifier-list before 'TTTabStrip' in /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h-350872191#18446744073709551615#0#-0#-4@102"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h0000000000000000^17#18446744073709551615#17#18446744073709551615#18446744073709551615#0#---2#-4@102"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h0000000000000000^17#18446744073709551615#17#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@54"Expected specifier-qualifier-list before 'TTImageView'-350872191#1936#153#2(3@87"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m-350872191#18446744073709551615#0#-0#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^12#18446744073709551615#12#18446744073709551615#18446744073709551615#0#---2@144"Expected specifier-qualifier-list before 'TTImageView' in /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h-350872191#18446744073709551615#0#-0#-4@102"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h0000000000000000^35#18446744073709551615#35#18446744073709551615#18446744073709551615#0#---2#-4@102"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h0000000000000000^35#18446744073709551615#35#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@54"Expected specifier-qualifier-list before 'TTImageView'-350872191#2089#153#2(3@87"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m-350872191#18446744073709551615#0#-0#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^12#18446744073709551615#12#18446744073709551615#18446744073709551615#0#---2@144"Expected specifier-qualifier-list before 'TTImageView' in /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h-350872191#18446744073709551615#0#-0#-4@102"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h0000000000000000^42#18446744073709551615#42#18446744073709551615#18446744073709551615#0#---2#-4@102"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.h0000000000000000^42#18446744073709551615#42#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@100"Cannot find interface declaration for 'TTTableViewController', superclass of 'MoTableViewController'-350872191#2451#200#3(3@87"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m-350872191#18446744073709551615#0#-0#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#---3@112"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplansViewController.h-350872191#18446744073709551615#0#-0#-4@106"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplansViewController.h0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---2@191"Cannot find interface declaration for 'TTTableViewController', superclass of 'MoTableViewController' in /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.h-350872191#18446744073709551615#0#-0#-4@103"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.h0000000000000000^10#18446744073709551615#10#18446744073709551615#18446744073709551615#0#---2#-4@103"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.h0000000000000000^10#18446744073709551615#10#18446744073709551615#18446744073709551615#0#60"Cannot find interface declaration for '*', superclass of '*'--2@54"Expected specifier-qualifier-list before 'TTImageView'-350872191#2651#154#3(3@87"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m-350872191#18446744073709551615#0#-0#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#---3@112"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplansViewController.h-350872191#18446744073709551615#0#-0#-4@106"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplansViewController.h0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---2@145"Expected specifier-qualifier-list before 'TTImageView' in /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.h-350872191#18446744073709551615#0#-0#-4@103"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.h0000000000000000^14#18446744073709551615#14#18446744073709551615#18446744073709551615#0#---2#-4@103"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.h0000000000000000^14#18446744073709551615#14#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@54"Expected specifier-qualifier-list before 'TTImageView'-350872191#2805#154#3(3@87"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m-350872191#18446744073709551615#0#-0#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#---3@112"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplansViewController.h-350872191#18446744073709551615#0#-0#-4@106"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplansViewController.h0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---2@145"Expected specifier-qualifier-list before 'TTImageView' in /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.h-350872191#18446744073709551615#0#-0#-4@103"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#---2#-4@103"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.h0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@54"Expected specifier-qualifier-list before 'TTImageView'-350872191#3051#162#2(3@87"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m-350872191#18446744073709551615#0#-0#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^14#18446744073709551615#14#18446744073709551615#18446744073709551615#0#---2@153"Expected specifier-qualifier-list before 'TTImageView' in /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplanDetailViewController.h-350872191#18446744073709551615#0#-0#-4@111"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplanDetailViewController.h0000000000000000^25#18446744073709551615#25#18446744073709551615#18446744073709551615#0#---2#-4@111"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplanDetailViewController.h0000000000000000^25#18446744073709551615#25#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@98"Cannot find interface declaration for 'TTPhotoViewController', superclass of 'PhotoViewController'-350872191#3305#196#2(3@87"In file included from /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m-350872191#18446744073709551615#0#-0#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---2@187"Cannot find interface declaration for 'TTPhotoViewController', superclass of 'PhotoViewController' in /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PhotoViewController.h-350872191#18446744073709551615#0#-0#-4@101"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PhotoViewController.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#---2#-4@101"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PhotoViewController.h0000000000000000^15#18446744073709551615#15#18446744073709551615#18446744073709551615#0#60"Cannot find interface declaration for '*', superclass of '*'--2@42"Implicit declaration of function 'TTDINFO'-350872191#3641#122#-1#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^31#18446744073709551615#31#18446744073709551615#18446744073709551615#0#36"Implicit declaration of function '*'--2@59"'TTURLRequestQueue' undeclared (first use in this function)-350872191#3763#137#-2#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^37#18446744073709551615#37#18446744073709551615#18446744073709551615#0#43"'*' undeclared (first use in this function)--2@54"'TTStyleSheet' undeclared (first use in this function)-350872191#4138#132#-2#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^41#18446744073709551615#41#18446744073709551615#18446744073709551615#0#43"'*' undeclared (first use in this function)--2@40"'Stylesheet' may not respond to '+alloc'-350872191#4270#120#-1#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^41#18446744073709551615#41#18446744073709551615#18446744073709551615#0#26"'*' may not respond to '*'--2@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)-350872191#4390#125#-0#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^41#18446744073709551615#41#18446744073709551615#18446744073709551615#0#19"LLVM GCC 4.2 Notice--2@53"'TTNavigator' undeclared (first use in this function)-350872191#4736#131#-2#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^46#18446744073709551615#46#18446744073709551615#18446744073709551615#0#43"'*' undeclared (first use in this function)--2@51"'navigator' undeclared (first use in this function)-350872191#4867#129#-2#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^46#18446744073709551615#46#18446744073709551615#18446744073709551615#0#43"'*' undeclared (first use in this function)--2@50"'TTURLMap' undeclared (first use in this function)-350872191#4996#128#-2#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^51#18446744073709551615#51#18446744073709551615#18446744073709551615#0#43"'*' undeclared (first use in this function)--2@45"'map' undeclared (first use in this function)-350872191#5124#123#-2#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^51#18446744073709551615#51#18446744073709551615#18446744073709551615#0#43"'*' undeclared (first use in this function)--2@57"'TTWebController' undeclared (first use in this function)-350872191#5247#135#-2#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^52#18446744073709551615#52#18446744073709551615#18446744073709551615#0#43"'*' undeclared (first use in this function)--2@54"'FloorplansViewController' may not respond to '+class'-350872191#5382#134#-1#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^55#18446744073709551615#55#18446744073709551615#18446744073709551615#0#26"'*' may not respond to '*'--2@59"'FloorplanDetailViewController' may not respond to '+class'-350872191#5516#139#-1#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^56#18446744073709551615#56#18446744073709551615#18446744073709551615#0#26"'*' may not respond to '*'--2@48"'NewsViewController' may not respond to '+class'-350872191#5655#128#-1#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^57#18446744073709551615#57#18446744073709551615#18446744073709551615#0#26"'*' may not respond to '*'--2@49"'PhotoViewController' may not respond to '+class'-350872191#5783#129#-1#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^58#18446744073709551615#58#18446744073709551615#18446744073709551615#0#26"'*' may not respond to '*'--2@49"'LinksViewController' may not respond to '+class'-350872191#5912#129#-1#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^59#18446744073709551615#59#18446744073709551615#18446744073709551615#0#26"'*' may not respond to '*'--2@49"'ApplyViewController' may not respond to '+class'-350872191#6041#129#-1#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^60#18446744073709551615#60#18446744073709551615#18446744073709551615#0#26"'*' may not respond to '*'--2@53"'AmenitiesViewController' may not respond to '+class'-350872191#6170#133#-1#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#26"'*' may not respond to '*'--2@53"'TTURLAction' undeclared (first use in this function)-350872191#6303#131#-2#-4@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^66#18446744073709551615#66#18446744073709551615#18446744073709551615#0#43"'*' undeclared (first use in this function)--0#0#0#-19%DVTDocumentLocation5@81"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m0000000000000000^3212"CompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/AppDelegate.o" MoLease/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/samanthaknight/Documents/MoLease2012    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.2 -iquote "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Veneto-generated-files.hmap" "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Veneto-own-target-headers.hmap" "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Veneto-all-target-headers.hmap" -iquote "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Veneto-project-headers.hmap" "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/include" -Ibuild/Debug-iphoneos/../three20 -Ithree20/Build/Products/three20 -I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale -IParc/BuildProductsPath/Release-iphoneos/../three20 -I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale -IParc/BuildProductsPath/Release-iphoneos/../../three20 -Ithree20/Build/Products/three20 -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -Ibuild/Debug-iphoneos/../../three20 "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/DerivedSources/armv7" "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/DerivedSources" "-F/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include /Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch -c /Users/samanthaknight/Documents/MoLease2012/MoLease/AppDelegate.m -o "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/AppDelegate.o"
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/ApplyViewController.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/ApplyViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/DDXMLDocument.o" /Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/DDXMLDocument.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/DDXMLElement.o" /Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/DDXMLElement.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/DDXMLElementAdditions.o" /Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/DDXMLElementAdditions.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/DDXMLNode.o" /Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/DDXMLNode.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/FloorplanDetailViewController.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplanDetailViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/FloorplansViewController.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/FloorplansViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HTFunctions.o" /Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTFunctions.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s350872190.251710
+e350872191.181786
+r0
+xCompileC
+xDerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HTFunctions.o
+x/Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTFunctions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+oIn file included from <command-line>:0:
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch:14:32: error: Three20/Three20.h: No such file or directory
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTFunctions.m1686407ee2e9b441^f1842e7fe2e9b441^-170"In file included from <command-line>:0:/Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch:14:32: error: Three20/Three20.h: No such file or directory1(21%IDEActivityLogMessage2@44"Three20/Three20.h: No such file or directory-350872190#40#130#2(36%IDEActivityLogHeaderInclusionMessage3@36"In file included from <command-line>-350872190#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@35"file://localhost/%3Ccommand-line%3E0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---2@118"Three20/Three20.h: No such file or directory in /Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch-350872190#18446744073709551615#0#-0#-4@86"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#---2#-4@86"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--0#0#0#-19%DVTDocumentLocation5@97"file://localhost/Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTFunctions.m0000000000000000^3244"CompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HTFunctions.o" hoptoad/hoptoadnotifier/HTFunctions.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/samanthaknight/Documents/MoLease2012    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.2 -iquote "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Veneto-generated-files.hmap" "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Veneto-own-target-headers.hmap" "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Veneto-all-target-headers.hmap" -iquote "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Veneto-project-headers.hmap" "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/include" -Ibuild/Debug-iphoneos/../three20 -Ithree20/Build/Products/three20 -I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale -IParc/BuildProductsPath/Release-iphoneos/../three20 -I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale -IParc/BuildProductsPath/Release-iphoneos/../../three20 -Ithree20/Build/Products/three20 -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -Ibuild/Debug-iphoneos/../../three20 "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/DerivedSources/armv7" "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/DerivedSources" "-F/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include /Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch -c /Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTFunctions.m -o "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HTFunctions.o"
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HTNotice.o" /Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotice.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s350872190.252172
+e350872191.181856
+r0
+xCompileC
+xDerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HTNotice.o
+x/Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotice.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+oIn file included from <command-line>:0:
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch:14:32: error: Three20/Three20.h: No such file or directory
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotice.m55a2407ee2e9b441^b8952e7fe2e9b441^-170"In file included from <command-line>:0:/Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch:14:32: error: Three20/Three20.h: No such file or directory1(21%IDEActivityLogMessage2@44"Three20/Three20.h: No such file or directory-350872191#40#130#2(36%IDEActivityLogHeaderInclusionMessage3@36"In file included from <command-line>-350872191#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@35"file://localhost/%3Ccommand-line%3E0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---2@118"Three20/Three20.h: No such file or directory in /Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch-350872191#18446744073709551615#0#-0#-4@86"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#---2#-4@86"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--0#0#0#-19%DVTDocumentLocation5@94"file://localhost/Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotice.m0000000000000000^3232"CompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HTNotice.o" hoptoad/hoptoadnotifier/HTNotice.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/samanthaknight/Documents/MoLease2012    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.2 -iquote "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Veneto-generated-files.hmap" "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Veneto-own-target-headers.hmap" "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Veneto-all-target-headers.hmap" -iquote "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Veneto-project-headers.hmap" "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/include" -Ibuild/Debug-iphoneos/../three20 -Ithree20/Build/Products/three20 -I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale -IParc/BuildProductsPath/Release-iphoneos/../three20 -I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale -IParc/BuildProductsPath/Release-iphoneos/../../three20 -Ithree20/Build/Products/three20 -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -Ibuild/Debug-iphoneos/../../three20 "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/DerivedSources/armv7" "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/DerivedSources" "-F/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include /Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch -c /Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotice.m -o "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HTNotice.o"
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HTNotifier.o" /Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotifier.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HTNotifier_Mac.o" /Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotifier_Mac.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HTNotifier_iOS.o" /Users/samanthaknight/Documents/MoLease2012/hoptoad/hoptoadnotifier/HTNotifier_iOS.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/HomeViewController.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/HomeViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/LinksViewController.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/LinksViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/MoDataSource.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/Models/MoDataSource.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/MoTableViewController.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/MoTableViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/NSStringAdditions.o" /Users/samanthaknight/Documents/MoLease2012/hoptoad/kissxml/NSStringAdditions.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/NewsDataSource.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/Models/NewsDataSource.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/NewsModel.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/Models/NewsModel.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/NewsViewController.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/NewsViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/Photo.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/Models/../Photo.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/PhotoSource.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/Models/PhotoSource.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/PhotoViewController.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PhotoViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/PlacesViewController.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/Controllers/PlacesViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/Stylesheet.o" /Users/samanthaknight/Documents/MoLease2012/Client/../MoLease/Resources/Stylesheet.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/main.o" /Users/samanthaknight/Documents/MoLease2012/MoLease/main.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s350872190.251660
+e350872191.080549
+r0
+xCompileC
+xDerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/main.o
+x/Users/samanthaknight/Documents/MoLease2012/MoLease/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+oIn file included from <command-line>:0:
+o/Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch:14:32: error: Three20/Three20.h: No such file or directory
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/samanthaknight/Documents/MoLease2012/MoLease/main.ma584407ee2e9b441^d68c147fe2e9b441^-170"In file included from <command-line>:0:/Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch:14:32: error: Three20/Three20.h: No such file or directory1(21%IDEActivityLogMessage2@44"Three20/Three20.h: No such file or directory-350872190#40#130#2(36%IDEActivityLogHeaderInclusionMessage3@36"In file included from <command-line>-350872190#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@35"file://localhost/%3Ccommand-line%3E0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---2@118"Three20/Three20.h: No such file or directory in /Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch-350872190#18446744073709551615#0#-0#-4@86"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#---2#-4@86"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--0#0#0#-19%DVTDocumentLocation5@74"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/main.m0000000000000000^3184"CompileC "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/main.o" MoLease/main.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/samanthaknight/Documents/MoLease2012    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.2 -iquote "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Veneto-generated-files.hmap" "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Veneto-own-target-headers.hmap" "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Veneto-all-target-headers.hmap" -iquote "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Veneto-project-headers.hmap" "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/include" -Ibuild/Debug-iphoneos/../three20 -Ithree20/Build/Products/three20 -I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale -IParc/BuildProductsPath/Release-iphoneos/../three20 -I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale -IParc/BuildProductsPath/Release-iphoneos/../../three20 -Ithree20/Build/Products/three20 -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/libxml2 -Ibuild/Debug-iphoneos/../../three20 "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/DerivedSources/armv7" "-I/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/DerivedSources" "-F/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include /Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Prefix.pch -c /Users/samanthaknight/Documents/MoLease2012/MoLease/main.m -o "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Objects-normal/armv7/main.o"
+
+CCompileXIB /Users/samanthaknight/Documents/MoLease2012/MoLease/en.lproj/MainWindow.xib
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/1.png" MoLease/Resources/floorplans/1.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/1_thumb.png" MoLease/Resources/floorplans/1_thumb.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/2.png" MoLease/Resources/floorplans/2.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/2_thumb.png" MoLease/Resources/floorplans/2_thumb.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/3.png" MoLease/Resources/floorplans/3.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/3_thumb.png" MoLease/Resources/floorplans/3_thumb.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/4.png" MoLease/Resources/floorplans/4.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/4_thumb.png" MoLease/Resources/floorplans/4_thumb.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/5.png" MoLease/Resources/floorplans/5.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/5_thumb.png" MoLease/Resources/floorplans/5_thumb.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/6.png" MoLease/Resources/floorplans/6.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/6_thumb.png" MoLease/Resources/floorplans/6_thumb.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Default-Portrait~ipad.png" MoLease/Resources/Default-Portrait~ipad.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Default.png" MoLease/Resources/Default.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Default@2x.png" MoLease/Resources/Default@2x.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Icon-72.png" MoLease/Resources/icons/Icon-72.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Icon.png" MoLease/Resources/icons/Icon.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Icon@2x.png" MoLease/Resources/icons/Icon@2x.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/background.png" MoLease/Resources/background.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/background@2x.png" MoLease/Resources/background@2x.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/background@iPad.png" MoLease/Resources/background@iPad.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/header_apply.png" MoLease/Resources/header_apply.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/header_apply@2x.png" MoLease/Resources/header_apply@2x.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/header_apply@iPad.png" MoLease/Resources/header_apply@iPad.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/header_floorplans.png" MoLease/Resources/header_floorplans.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/header_floorplans@2x.png" MoLease/Resources/header_floorplans@2x.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/header_floorplans@iPad.png" MoLease/Resources/header_floorplans@iPad.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/header_links.png" MoLease/Resources/header_links.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/header_links@2x.png" MoLease/Resources/header_links@2x.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/header_links@iPad.png" MoLease/Resources/header_links@iPad.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/home_screen.png" MoLease/Resources/home_screen.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/home_screen@2x.png" MoLease/Resources/home_screen@2x.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/home_screen@iPad.png" MoLease/Resources/home_screen@iPad.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_amenities.png" MoLease/Resources/icon_amenities.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_amenities@2x.png" MoLease/Resources/icon_amenities@2x.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_amenities@iPad.png" MoLease/Resources/icon_amenities@iPad.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_apply.png" MoLease/Resources/icon_apply.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_apply@2x.png" MoLease/Resources/icon_apply@2x.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_apply@iPad.png" MoLease/Resources/icon_apply@iPad.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_events.png" MoLease/Resources/icon_events.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_events@2x.png" MoLease/Resources/icon_events@2x.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_events@iPad.png" MoLease/Resources/icon_events@iPad.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_floorplans.png" MoLease/Resources/icon_floorplans.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_floorplans@2x.png" MoLease/Resources/icon_floorplans@2x.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_floorplans@iPad.png" MoLease/Resources/icon_floorplans@iPad.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_gallery.png" MoLease/Resources/icon_gallery.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_gallery@2x.png" MoLease/Resources/icon_gallery@2x.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_gallery@iPad.png" MoLease/Resources/icon_gallery@iPad.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_links.png" MoLease/Resources/icon_links.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_links@2x.png" MoLease/Resources/icon_links@2x.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_links@iPad.png" MoLease/Resources/icon_links@iPad.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_news.png" MoLease/Resources/icon_news.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_news@2x.png" MoLease/Resources/icon_news@2x.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_news@iPad.png" MoLease/Resources/icon_news@iPad.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_places.png" MoLease/Resources/icon_places.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_places@2x.png" MoLease/Resources/icon_places@2x.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_places@iPad.png" MoLease/Resources/icon_places@iPad.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_siteplan.png" MoLease/Resources/icon_siteplan.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_siteplan@2x.png" MoLease/Resources/icon_siteplan@2x.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_siteplan@iPad.png" MoLease/Resources/icon_siteplan@iPad.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_video.png" MoLease/Resources/icon_video.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_video@2x.png" MoLease/Resources/icon_video@2x.png
+r0
+
+CCopyPNGFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/icon_video@iPad.png" MoLease/Resources/icon_video@iPad.png
+r0
+
+CCopyPlistFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/en.lproj/amenities.plist" Client/en.lproj/amenities.plist
+r0
+
+CCopyPlistFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/floorplans.plist" Client/floorplans.plist
+r0
+
+CCopyPlistFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/gallery.plist" Client/gallery.plist
+r0
+
+CCopyPlistFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/links.plist" Client/links.plist
+r0
+
+CCopyPlistFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/places.plist" Client/places.plist
+r0
+
+CCopyStringsFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Localizable.strings" Client/../MoLease/Resources/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/en.lproj/HTNotifier.strings" hoptoad/hoptoadnotifier/en.lproj/en.lproj/HTNotifier.strings
+r0
+
+CCopyStringsFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/en.lproj/InfoPlist.strings" MoLease/en.lproj/InfoPlist.strings
+r0
+
+CCpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/ResourceRules.plist"
+s350872190.220454
+e350872190.241836
+r1
+xCpResource
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+xDerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/ResourceRules.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Copy DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/ResourceRules.plist887f387ee2e9b441^71e83d7ee2e9b441^---0#0#0#-19%DVTDocumentLocation2@194"file://localhost/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale%20Parc/InstallationBuildProductsLocation/Applications/Veneto.app/ResourceRules.plist00f42859dfffdf42^780"CpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/ResourceRules.plist"    cd /Users/samanthaknight/Documents/MoLease2012    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app"
+
+CCpResource Client/gallery/Instructions "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Instructions"
+r0
+
+CCpResource Client/gallery/image0.jpg "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/image0.jpg"
+r0
+
+CCpResource Client/gallery/image1.jpg "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/image1.jpg"
+r0
+
+CCpResource Client/gallery/image2.jpg "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/image2.jpg"
+r0
+
+CCpResource Client/gallery/image3.jpg "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/image3.jpg"
+r0
+
+CCpResource MoLease/Resources/Three20.bundle "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Three20.bundle"
+r0
+
+CCpResource MoLease/Resources/TradeGothic-Bold.otf "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/TradeGothic-Bold.otf"
+r0
+
+CCpResource MoLease/Resources/TradeGothic.otf "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/TradeGothic.otf"
+r0
+
+CGenerateDSYMFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/Veneto.app.dSYM" "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Veneto"
+r0
+
+CLd "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Veneto" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Info.plist" MoLease/MoLease-Info.plist
+s350872190.220452
+e350872190.242473
+r1
+xProcessInfoPlistFile
+x/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Info.plist
+xMoLease/MoLease-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process MoLease/MoLease-Info.plisted7f387ee2e9b441^6e133e7ee2e9b441^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/samanthaknight/Documents/MoLease2012/MoLease/MoLease-Info.plist0000000000000000^1010"ProcessInfoPlistFile "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Info.plist" MoLease/MoLease-Info.plist    cd /Users/samanthaknight/Documents/MoLease2012    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MoLease/MoLease-Info.plist -genpkginfo "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/ResourceRules.plist" -o "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Info.plist"
+
+CProcessProductPackaging "/Users/samanthaknight/Library/MobileDevice/Provisioning Profiles/7A040FA4-6752-4BCF-8185-86453CC620E9.mobileprovision" "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/IntermediateBuildFilesPath/MoLease.build/Release-iphoneos/Veneto.build/Veneto.xcent"
+r0
+
+CSetMode u+w,go-w,a+rX "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app"
+r0
+
+CSetOwnerAndGroup samanthaknight:staff "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app"
+r0
+
+CStripping "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app/Veneto"
+r0
+
+CSymLink "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/Veneto.app" "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app"
+s350872190.220483
+e350872190.224770
+r1
+xSymLink
+x/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/Veneto.app
+x/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"Process /Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/Veneto.appdc7f387ee2e9b441^5989397ee2e9b441^---0#0#0#--723"SymLink "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/Veneto.app" "DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app"    cd /Users/samanthaknight/Documents/MoLease2012    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /bin/ln -sf "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app" "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/BuildProductsPath/Release-iphoneos/Veneto.app"
+
+CTouch "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app"
+r0
+
+CValidate "/Users/samanthaknight/Documents/MoLease2012/DerivedData/MoLease/ArchiveIntermediates/Avondale Parc/InstallationBuildProductsLocation/Applications/Veneto.app"
+r0
+

@@ -1,0 +1,171 @@
+/* 
+  Localizable.strings
+  MoLease
+
+  Created by Chris Voss on 6/26/11.
+  Copyright 2011 Chris Voss. All rights reserved.
+*/
+
+/*
+ * GENERAL
+ */
+
+/* client email address */
+// TODO: Change this before release
+"EMAIL ADDRESS" = "AvenueR.Gre@lead2lease.com";
+
+/* latitude */
+"LATITUDE" = "29.731441";
+
+/* longitude */
+"LONGITUDE" = "-95.4719";
+
+/*
+ * TITLES
+ */
+
+/* title of the app */
+"APP TITLE" = "Avenue R";
+
+/* amenities title */
+"AMENITIES TITLE" = "Amenities";
+
+/* apply title */
+"APPLY TITLE" = "Guest Card";
+
+/* floorplans title */
+"FLOORPLANS TITLE" = "Floorplans";
+
+/* links title */
+"LINKS TITLE" = "Links";
+
+/* news title */
+"NEWS TITLE" = "Social";
+
+/* photo gallery title */
+"PHOTOS TITLE" = "Gallery";
+
+/* places title */
+"PLACES TITLE" = "Places";
+
+/*
+ * URLS
+ */
+
+/* siteplan url */
+"SITEPLAN URL" = "mo://siteplan/siteplan";
+
+/* videos url */
+"VIDEOS URL" = "http://property.onesite.realpage.com/ol2m/(S(jeehakadzyiol145pu1xjivt))/Default.aspx?s=2849831";
+
+/* blog url */
+"BLOG URL" = "http://avenuer.com/ipad/blog/";
+
+/* apply url */
+// set this to "mo://apply" to use built-in application view
+"APPLY URL" = "mo://apply";
+
+/*
+ * APPLY FIELDS
+ */
+
+/* apply table section title w/html */
+"APPLY TABLE TITLE" = "<div class=\"headerCell\">information</div>";
+
+/* name field */
+"NAME FIELD" = "NAME: ";
+
+/* name placeholder */
+"NAME PLACEHOLDER" = "Your Name";
+
+/* email field */
+"EMAIL FIELD" = "EMAIL: ";
+
+/* email placeholder */
+"EMAIL PLACEHOLDER" = "your@email.com";
+
+/* phone field */
+"PHONE FIELD" = "PHONE: ";
+
+/* phone placeholder */
+"PHONE PLACEHOLDER" = "123-456-7890";
+
+/* notes field */
+"NOTES FIELD" = "NOTES: ";
+
+/* notes placeholder */
+"NOTES PLACEHOLDER" = "Special notes";
+
+/* email button */
+"EMAIL BUTTON" = "EMAIL";
+
+/* email subject */
+"EMAIL SUBJECT" = "Avenue R Web Inquiry";
+
+/* email body w/html */
+"EMAIL BODY" = "Hello. Please send me more information about living at Avenue R Luxury Apartments.<br />Thanks!";
+
+/*
+ * FLOORPLAN FIELDS
+ * need html and a %@ where the data should go
+ */
+
+/* floorplan bedrooms field */
+"FLOORPLAN BEDROOMS FIELD" = "<strong>BEDROOMS:</strong> %@";
+
+/* floorplan bathrooms field */
+"FLOORPLAN BATHROOMS FIELD" = "<strong>BATHROOMS:</strong> %@";
+
+/* floorplan sqft field */
+"FLOORPLAN SQFT FIELD" = "<strong>SQUARE FEET:</strong> %@";
+
+/* floorplan share email */
+"FLOORPLAN SHARE EMAIL" = "Email this floorplan";
+
+/* floorplan share text */
+"FLOORPLAN SHARE TEXT" = "Text this floorplan";
+
+/* floorplan share more */
+"FLOORPLAN SHARE MORE" = "More sharing options...";
+
+/* floorplan email subject */
+"FLOORPLAN EMAIL SUBJECT" = "Floor plans at Avenue R";
+
+/* floorplan email body w/html */
+/* 1st %@ = floorplan name
+ * 2nd %@ = floorplan description
+ * 3rd %@ = floorplan email
+ */
+"FLOORPLAN EMAIL BODY" = "Check out the %@ floorplan at Avenue R: %@ %@";
+
+/* floorplan sms body */
+/* 1st %@ = floorplan name
+ * 2nd %@ = floorplan description
+ * 3rd %@ = floorplan email
+ */
+"FLOORPLAN SMS BODY" = "Check out the %@ floorplan at Avenue R: %@ %@";
+
+/* floorplan sharekit body w/html */
+/* 1st %@ = floorplan name
+ * 2nd %@ = floorplan description
+ * (url is also included, but not in this text)
+ */
+"FLOORPLAN SHAREKIT BODY" = "Check out the %@ floorplan at Avenue R: %@";
+
+/*
+ * PHOTO GALLERY
+ */
+
+/* photo share body */
+"GALLERY SHARE BODY" = "Love Where you Live: Avenue R";
+
+/*
+ * PLACES
+ */
+
+/* home location title */
+"HOME TITLE" = "Avenue R";
+
+
+
+

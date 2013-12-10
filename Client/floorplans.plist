@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>floorplans</key>
+		<array>
+			<dict>
+				<key>bathrooms</key>
+				<string>one</string>
+				<key>bedrooms</key>
+				<string>one</string>
+				<key>name</key>
+				<string>reno</string>
+				<key>short</key>
+				<string>1</string>
+				<key>short_description</key>
+				<string>1 bed, 1 bath, 593 sq ft</string>
+				<key>sqft</key>
+				<string>593</string>
+				<key>url</key>
+				<string>http://avenuer.com/assets/files/AVE-R-Floorplan-Master-08-1.pdf</string>
+			</dict>
+			<dict>
+				<key>bathrooms</key>
+				<string>one</string>
+				<key>bedrooms</key>
+				<string>one</string>
+				<key>name</key>
+				<string>redmond</string>
+				<key>short</key>
+				<string>2</string>
+				<key>short_description</key>
+				<string>1 bed, 1 bath, 654 sq ft</string>
+				<key>sqft</key>
+				<string>654</string>
+				<key>url</key>
+				<string>http://avenuer.com/assets/files/AVE-R-Floorplan-Master-08-2.pdf</string>
+			</dict>
+			<dict>
+				<key>bathrooms</key>
+				<string>one</string>
+				<key>bedrooms</key>
+				<string>one</string>
+				<key>name</key>
+				<string>rockport</string>
+				<key>short</key>
+				<string>3</string>
+				<key>short_description</key>
+				<string>1 bed, 1 bath, 715 sq ft</string>
+				<key>sqft</key>
+				<string>715</string>
+				<key>url</key>
+				<string>http://avenuer.com/assets/files/AVE-R-Floorplan-Master-08-3.pdf</string>
+			</dict>
+			<dict>
+				<key>bathrooms</key>
+				<string>one</string>
+				<key>bedrooms</key>
+				<string>one</string>
+				<key>name</key>
+				<string>rhodes</string>
+				<key>short</key>
+				<string>4</string>
+				<key>short_description</key>
+				<string>1 bed, 1 bath, 725 sq ft</string>
+				<key>sqft</key>
+				<string>725</string>
+				<key>url</key>
+				<string>http://avenuer.com/assets/files/AVE-R-Floorplan-Master-08-4.pdf</string>
+			</dict>
+			<dict>
+				<key>bathrooms</key>
+				<string>one</string>
+				<key>bedrooms</key>
+				<string>one</string>
+				<key>name</key>
+				<string>radford</string>
+				<key>short</key>
+				<string>5</string>
+				<key>short_description</key>
+				<string>1 bed, 1 bath, 846 sq ft</string>
+				<key>sq ft</key>
+				<string>846</string>
+				<key>url</key>
+				<string>http://avenuer.com/assets/files/AVE-R-Floorplan-Master-08-5.pdf</string>
+			</dict>
+			<dict>
+				<key>bathrooms</key>
+				<string>one</string>
+				<key>bedrooms</key>
+				<string>one</string>
+				<key>name</key>
+				<string>reston</string>
+				<key>short</key>
+				<string>6</string>
+				<key>short_description</key>
+				<string>1 bed, 1 bath, 860 sq ft</string>
+				<key>sqft</key>
+				<string>860</string>
+				<key>url</key>
+				<string>http://avenuer.com/assets/files/AVE-R-Floorplan-Master-08-6.pdf</string>
+			</dict>
+			<dict>
+				<key>bathrooms</key>
+				<string>one</string>
+				<key>bedrooms</key>
+				<string>one</string>
+				<key>name</key>
+				<string>round rock</string>
+				<key>short</key>
+				<string>7</string>
+				<key>short_description</key>
+				<string>1 bed, 1 bath, 865 sq ft</string>
+				<key>sqft </key>
+				<string>865</string>
+				<key>url</key>
+				<string>http://avenuer.com/assets/files/AVE-R-Floorplan-Master-08-7.pdf</string>
+			</dict>
+		</array>
+		<key>section_name</key>
+		<string>One Bedroom</string>
+	</dict>
+	<dict>
+		<key>floorplans</key>
+		<array>
+			<dict>
+				<key>bathrooms</key>
+				<string>two</string>
+				<key>bedrooms</key>
+				<string>two</string>
+				<key>name</key>
+				<string>rollingwood</string>
+				<key>short</key>
+				<string>8</string>
+				<key>short_description</key>
+				<string>2 bed, 2 bath, 1061 sq ft</string>
+				<key>sqft</key>
+				<string>1061</string>
+				<key>url</key>
+				<string>http://avenuer.com/assets/files/AVE-R-Floorplan-Master-08-8.pdf</string>
+			</dict>
+			<dict>
+				<key>bathrooms</key>
+				<string>two</string>
+				<key>bedrooms</key>
+				<string>two</string>
+				<key>name</key>
+				<string>riverside</string>
+				<key>short</key>
+				<string>9</string>
+				<key>short_description</key>
+				<string>2 bed, 2 bath, 1171 sq ft</string>
+				<key>sqft</key>
+				<string>1171</string>
+				<key>url</key>
+				<string>http://avenuer.com/assets/files/AVE-R-Floorplan-Master-08-9.pdf</string>
+			</dict>
+			<dict>
+				<key>bathrooms</key>
+				<string>two</string>
+				<key>bedrooms</key>
+				<string>two</string>
+				<key>name</key>
+				<string>raleigh</string>
+				<key>short</key>
+				<string>10</string>
+				<key>short_description</key>
+				<string>2 bed, 2 bath, 1255 sq ft</string>
+				<key>sqft</key>
+				<string>1255</string>
+				<key>url</key>
+				<string>http://avenuer.com/assets/files/AVE-R-Floorplan-Master-08-10.pdf</string>
+			</dict>
+			<dict>
+				<key>bathrooms</key>
+				<string>two</string>
+				<key>bedrooms</key>
+				<string>two</string>
+				<key>name</key>
+				<string>richmond</string>
+				<key>short</key>
+				<string>11</string>
+				<key>short_description</key>
+				<string>2 bed, 2 bath, 1293 sq ft</string>
+				<key>sqft</key>
+				<string>1293</string>
+				<key>url</key>
+				<string>http://avenuer.com/assets/files/AVE-R-Floorplan-Master-08-11.pdf</string>
+			</dict>
+		</array>
+		<key>section_name</key>
+		<string>2 Bedroom</string>
+	</dict>
+</array>
+</plist>

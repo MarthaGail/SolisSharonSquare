@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Public Schools</key>
+		<string>school</string>
+		<key>Entertainment</key>
+		<string>bar</string>
+		<key>Grocery Stores</key>
+		<string>grocery_or_supermarket</string>
+		<key>Banks</key>
+		<string>bank</string>
+		<key>Restaurants</key>
+		<string>restaurant</string>
+		<key>Gym</key>
+		<string>gym</string>
+		<key>Shopping</key>
+		<string>store</string>
+	</dict>
+</array>
+</plist>
