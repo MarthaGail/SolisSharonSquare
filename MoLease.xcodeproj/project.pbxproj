@@ -73,6 +73,8 @@
 		6A0E4B781822FF4100EFC706 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0E4B751822FF4100EFC706 /* icon.png */; };
 		6A0E4B791822FF4100EFC706 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0E4B761822FF4100EFC706 /* icon@2x.png */; };
 		6A165E21182306F500211C7B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6A165E20182306F500211C7B /* Images.xcassets */; };
+		6AEEEEF31857828F00DE1438 /* FeaturesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AEEEEF21857828F00DE1438 /* FeaturesViewController.m */; };
+		6AEEEEF6185783A600DE1438 /* features.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6AEEEEF4185783A600DE1438 /* features.plist */; };
 		A80AA34B130DFB11009F5585 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A80AA34A130DFB11009F5585 /* UIKit.framework */; };
 		A80AA34D130DFB11009F5585 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A80AA34C130DFB11009F5585 /* Foundation.framework */; };
 		A80AA34F130DFB11009F5585 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A80AA34E130DFB11009F5585 /* CoreGraphics.framework */; };
@@ -488,6 +490,9 @@
 		6A0E4B751822FF4100EFC706 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 		6A0E4B761822FF4100EFC706 /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
 		6A165E20182306F500211C7B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "Avenue R/Images.xcassets"; sourceTree = SOURCE_ROOT; };
+		6AEEEEF11857828F00DE1438 /* FeaturesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FeaturesViewController.h; sourceTree = "<group>"; };
+		6AEEEEF21857828F00DE1438 /* FeaturesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FeaturesViewController.m; sourceTree = "<group>"; };
+		6AEEEEF5185783A600DE1438 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = en; path = en.lproj/features.plist; sourceTree = "<group>"; };
 		A80AA346130DFB11009F5585 /* Solis Sharon Square.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Solis Sharon Square.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A80AA34A130DFB11009F5585 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		A80AA34C130DFB11009F5585 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -940,6 +945,7 @@
 				A81A9421132450B2005FD879 /* floorplans.plist */,
 				CBCCEDF814F1CB15006A4AB5 /* news.plist */,
 				CB8C5B4713C3A145008F9B24 /* amenities.plist */,
+				6AEEEEF4185783A600DE1438 /* features.plist */,
 				A86F7F3D135408F80087C112 /* gallery.plist */,
 				A8B816C713B7A99E001979CB /* links.plist */,
 			);
@@ -1095,6 +1101,8 @@
 				A8789BFE1354DDA900541A9F /* AmenitiesViewController.m */,
 				A8948168131479F800DE7605 /* ApplyViewController.h */,
 				A8948169131479F800DE7605 /* ApplyViewController.m */,
+				6AEEEEF11857828F00DE1438 /* FeaturesViewController.h */,
+				6AEEEEF21857828F00DE1438 /* FeaturesViewController.m */,
 				A8FB6D14130FA67700D39652 /* FloorplansViewController.h */,
 				A8FB6D15130FA67700D39652 /* FloorplansViewController.m */,
 				A8FB6D8E130FA78D00D39652 /* FloorplanDetailViewController.h */,
@@ -1570,6 +1578,7 @@
 				6A0E4B3B1822E8B200EFC706 /* 6.jpg in Resources */,
 				CBCCEDF914F1CB15006A4AB5 /* news.plist in Resources */,
 				CB41C8BA14F6EEBF00DD9839 /* siteplan.png in Resources */,
+				6AEEEEF6185783A600DE1438 /* features.plist in Resources */,
 				6A0E4B3F1822E8B200EFC706 /* 10.jpg in Resources */,
 				CB41C8BB14F6EEBF00DD9839 /* siteplan@2x.png in Resources */,
 				CB18262C1504987A004A5F14 /* header_news.png in Resources */,
@@ -1647,6 +1656,7 @@
 				A80AA465130DFDF3009F5585 /* DDXMLElement.m in Sources */,
 				A80AA466130DFDF3009F5585 /* DDXMLElementAdditions.m in Sources */,
 				A80AA467130DFDF3009F5585 /* DDXMLNode.m in Sources */,
+				6AEEEEF31857828F00DE1438 /* FeaturesViewController.m in Sources */,
 				A80AA468130DFDF3009F5585 /* NSStringAdditions.m in Sources */,
 				A8FB6C40130F9E1500D39652 /* HomeViewController.m in Sources */,
 				A8FB6CC5130F9FD800D39652 /* Stylesheet.m in Sources */,
@@ -1732,6 +1742,14 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		6AEEEEF4185783A600DE1438 /* features.plist */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6AEEEEF5185783A600DE1438 /* en */,
+			);
+			name = features.plist;
+			sourceTree = "<group>";
+		};
 		A80AA353130DFB11009F5585 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (

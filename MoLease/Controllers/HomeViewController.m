@@ -75,9 +75,9 @@
                                                                 image:[NSString stringWithFormat:@"bundle://icon_floorplans%@", _extension]
                                                                   URL:@"mo://floorplans" 
                                                             canDelete:NO] autorelease],
-                               [[[TTLauncherItem alloc] initWithTitle:@"SITEPLAN"
-                                                                image:[NSString stringWithFormat:@"bundle://icon_siteplan%@", _extension]
-                                                                  URL:NSLocalizedString(@"SITEPLAN URL", @"siteplan url")
+                               [[[TTLauncherItem alloc] initWithTitle:@"FEATURES"
+                                                                image:[NSString stringWithFormat:@"bundle://icon_features%@", _extension]
+                                                                  URL:@"mo://features"
                                                             canDelete:NO] autorelease],
                                [[[TTLauncherItem alloc] initWithTitle:@"PLACES"
                                                                 image:[NSString stringWithFormat:@"bundle://icon_places%@", _extension]

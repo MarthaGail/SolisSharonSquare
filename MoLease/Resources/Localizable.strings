@@ -30,6 +30,9 @@
 /* amenities title */
 "AMENITIES TITLE" = "Amenities";
 
+/* amenities title */
+"FEATURES TITLE" = "Features";
+
 /* apply title */
 "APPLY TITLE" = "Guest Card";
 

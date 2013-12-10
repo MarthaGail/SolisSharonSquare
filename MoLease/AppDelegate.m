@@ -18,6 +18,7 @@
 #import "ApplyViewController.h"
 #import "NewsViewController.h"
 #import "AmenitiesViewController.h"
+#import "FeaturesViewController.h"
 #import "SiteplanViewController.h"
 
 @implementation AppDelegate
@@ -72,6 +73,7 @@
     [map from:@"mo://apply" toViewController:[ApplyViewController class]];
     [map from:@"mo://siteplan/(initWithPath:)" toViewController:[SiteplanViewController class]];
     [map from:@"mo://amenities" toSharedViewController:[AmenitiesViewController class]];
+    [map from:@"mo://features" toSharedViewController:[FeaturesViewController class]];
     [map from:@"mo://videos" toSharedViewController:nil];
     
     TTDINFO(@"Opening the root path", nil);
