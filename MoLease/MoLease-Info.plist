@@ -32,6 +32,9 @@
 		<string>TradeGothic-Bold.otf</string>
 		<string>EurostileRegular.otf</string>
 		<string>Eurostile-ExtendedTwo.otf</string>
+		<string>Avenir-Black.otf</string>
+		<string>Avenir-Book.otf</string>
+		<string>Avenir-Heavy.otf</string>
 	</array>
 	<key>UIPrerenderedIcon</key>
 	<false/>

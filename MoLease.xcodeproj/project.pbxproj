@@ -487,6 +487,9 @@
 		6AEEEEF11857828F00DE1438 /* FeaturesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FeaturesViewController.h; sourceTree = "<group>"; };
 		6AEEEEF21857828F00DE1438 /* FeaturesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FeaturesViewController.m; sourceTree = "<group>"; };
 		6AEEEEF5185783A600DE1438 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = en; path = en.lproj/features.plist; sourceTree = "<group>"; };
+		6AEEEF151857B4E000DE1438 /* Avenir-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Avenir-Black.otf"; sourceTree = "<group>"; };
+		6AEEEF161857B4E000DE1438 /* Avenir-Book.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Avenir-Book.otf"; sourceTree = "<group>"; };
+		6AEEEF171857B4E000DE1438 /* Avenir-Heavy.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Avenir-Heavy.otf"; sourceTree = "<group>"; };
 		A80AA346130DFB11009F5585 /* Solis Sharon Square.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Solis Sharon Square.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A80AA34A130DFB11009F5585 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		A80AA34C130DFB11009F5585 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -989,6 +992,9 @@
 		A86F7B80135105270087C112 /* fonts */ = {
 			isa = PBXGroup;
 			children = (
+				6AEEEF151857B4E000DE1438 /* Avenir-Black.otf */,
+				6AEEEF161857B4E000DE1438 /* Avenir-Book.otf */,
+				6AEEEF171857B4E000DE1438 /* Avenir-Heavy.otf */,
 				CB71BAD4167EACCC0036E4F4 /* Eurostile-ExtendedTwo.otf */,
 				CB71BAD2167EACC10036E4F4 /* EurostileRegular.otf */,
 				A8789BBB1354D4F000541A9F /* TradeGothic-Bold.otf */,

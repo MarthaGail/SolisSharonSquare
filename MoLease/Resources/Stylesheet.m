@@ -16,38 +16,39 @@
  * main app font
  */
 - (UIFont *)font {
-    return [UIFont fontWithName:@"Eurostile" size:14];
+    return [UIFont fontWithName:@"Avenir-Heavy" size:14];
 }
 
 /**
- * table header font
+ * table header font, amenities
  */
 - (UIFont *)tableHeaderPlainFont {
-    return [self font];
+    return [UIFont fontWithName:@"Avenir-Black" size:25];
 }
 
 /**
- * table font
+ * table font, floor plans
  */
 - (UIFont *)tableFont {
-    return [UIFont fontWithName:@"Eurostile" size:17];
+    return [UIFont fontWithName:@"Avenir-Book" size:25];
 }
 
 /**
  * news font
  */
 - (UIFont *)newsTextFont {
-    return [UIFont fontWithName:@"Eurostile" size:13];
+    return [UIFont fontWithName:@"Avenir-Book" size:13];
 }
 
 #pragma mark - Text Colors
 
 - (UIColor *)tableTitleTextColor {
-    return RGBACOLOR(103, 103, 103, 1);
+    return RGBACOLOR(106, 115, 123, 1);
 }
 
+// Amenities header
 - (UIColor *)tableHeaderTextColor {
-    return RGBACOLOR(223, 223, 223, 1);
+    return RGBACOLOR(189, 47, 42, 1);
 }
 
 - (UIColor *)newsTitleTextColor {
@@ -102,7 +103,7 @@
 	return 
     [TTPartStyle styleWithName:@"image" style:TTSTYLESTATE 
 	 (launcherButtonImage:, state) next: 
-	 [TTTextStyle styleWithFont:[UIFont fontWithName:@"GillSans" size:_textSize] 
+	 [TTTextStyle styleWithFont:[UIFont fontWithName:@"Avenir-Heavy" size:_textSize]
 						  color:[UIColor blackColor]
 				minimumFontSize:11 shadowColor:RGBCOLOR(92,92,92)
 				   shadowOffset:CGSizeMake(0, 0) next:nil]];
@@ -110,20 +111,21 @@
 
 - (TTStyle*)pageDot:(UIControlState)state {
 	if (state == UIControlStateSelected) {
-		return [self pageDotWithColor:RGBACOLOR(85, 85, 85, 1)];
+		return [self pageDotWithColor:RGBACOLOR(85, 85, 85, 0)];
 	} else {
-		return [self pageDotWithColor:RGBACOLOR(151, 200, 71, 1)];
+		return [self pageDotWithColor:RGBACOLOR(151, 200, 71, 0)];
 	}
 }
 
 #pragma mark - Tables
  
 - (UIColor *)floorplansTableBackgroundColor {
-    return RGBACOLOR(243, 243, 243, 1);
+    return RGBACOLOR(255, 255, 255, 1);
 }
 
+// Amenities
 - (UIColor *)tableHeaderTintColor {
-    return RGBCOLOR(93,92,92);
+    return RGBCOLOR(255, 255, 255);
 }
 
 - (TTStyle *)selectionFillStyle:(TTStyle *)next {
@@ -135,16 +137,17 @@
     return RGBACOLOR(103, 103, 103, 1);
 }
 
+// link headers, floor plan detail headers
 - (TTStyle *)headerCell {
-    return [TTTextStyle styleWithFont:[UIFont fontWithName:@"Eurostile" size:25]
-                      color:RGBACOLOR(241, 123, 47, 1)
+    return [TTTextStyle styleWithFont:[UIFont fontWithName:@"Avenir-Black" size:25]
+                                color:RGBACOLOR(189, 47, 42, 1)
                       minimumFontSize:30
-                      shadowColor:RGBACOLOR(85, 85, 85, 1)
-                      shadowOffset:CGSizeMake(0, 1)
-                      textAlignment:UITextAlignmentLeft
-                      verticalAlignment:UIControlContentVerticalAlignmentCenter
-                      lineBreakMode:UILineBreakModeTailTruncation
-                      numberOfLines:1
+                          shadowColor:RGBACOLOR(255, 255, 255, 0)
+                         shadowOffset:CGSizeMake(0, 0)
+                        textAlignment:UITextAlignmentLeft
+                    verticalAlignment:UIControlContentVerticalAlignmentCenter
+                        lineBreakMode:UILineBreakModeTailTruncation
+                        numberOfLines:1
                                  next:nil];
 }
 
@@ -153,7 +156,7 @@
 - (TTStyle *)emailButton:(UIControlState)state {
     return [TTShapeStyle styleWithShape:[TTRectangleShape shape] next:
             [TTSolidFillStyle styleWithColor:RGBACOLOR(151, 200, 71, 1) next:
-             [TTTextStyle styleWithFont:[UIFont fontWithName:@"Eurostile" size:17]
+             [TTTextStyle styleWithFont:[UIFont fontWithName:@"Avenir-Heavy" size:17]
                                   color:RGBACOLOR(0, 0, 0, 1)
                         minimumFontSize:14
                             shadowColor:nil
