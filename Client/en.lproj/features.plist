@@ -3,38 +3,21 @@
 <plist version="1.0">
 <array>
 	<array>
-		<string>RECHARGE</string>
-		<string>Top-of-the-Line Fitness Center</string>
-		<string>Private Yoga/Pilates Studio</string>
-	</array>
-	<array>
-		<string>RENDEZVOUS AND REBOOT</string>
-		<string>Conference Room with Wi-Fi, Flat Screen TV and A/V Plugins</string>
-		<string>Cyber Lounge with Wi-Fi, iMacs and Printing Station</string>
-		<string>Media/Game Room</string>
-	</array>
-	<array>
-		<string>RELAX</string>
-		<string>Two Pools: One Active, One Cocktail with Splash Deck, Outdoor Kitchen and Grills</string>
-		<string>Sky Lounge with Bar, Kitchenette, TVs and Fireplace</string>
-		<string>Lushly Landscaped Courtyards</string>
-		<string>Tanning Room</string>
-	</array>
-	<array>
-		<string>RETREAT</string>
-		<string>10-Foot Ceilings</string>
-		<string>Island Kitchen</string>
-		<string>Quartz Countertops</string>
-		<string>Concrete and Bamboo Flooring</string>
-		<string>Garden Tubs and Standalone Showers</string>
-	</array>
-	<array>
-		<string>AND THE REST...</string>
-		<string>Five Outdoor Eating Areas with Grills</string>
-		<string>Pet Park with Watering Station</string>
-		<string>Secured Parking Garage</string>
-		<string>LEED Certified</string>
-		<string>*Features and amenities are subject to change.</string>
+		<string>HOME FINISHES &amp; FEATURES</string>
+		<string>        Studio, 1 and 2 bedroom residences</string>
+		<string>        Granite countertops in kitchens and bathrooms</string>
+		<string>        Clean Steel appliances</string>
+		<string>        Ceiling fans in each bedroom</string>
+		<string>        Balcony or patios*</string>
+		<string>        Dark wood-style plank flooring throughout living areas and bathrooms</string>
+		<string>        Built in desk*</string>
+		<string>        Spacious closets</string>
+		<string>        Premium lighting package</string>
+		<string>        Tile backsplashes in kitchens</string>
+		<string>        Full size washer and dryer</string>
+		<string>        High-speed internet and cable TV packages</string>
+		<string> </string>
+		<string>        *In select apartment homes</string>
 	</array>
 </array>
 </plist>

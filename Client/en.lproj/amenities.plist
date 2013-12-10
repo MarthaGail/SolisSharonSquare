@@ -3,38 +3,17 @@
 <plist version="1.0">
 <array>
 	<array>
-		<string>RECHARGE</string>
-		<string>Top-of-the-Line Fitness Center</string>
-		<string>Private Yoga/Pilates Studio</string>
-	</array>
-	<array>
-		<string>RENDEZVOUS AND REBOOT</string>
-		<string>Conference Room with Wi-Fi, Flat Screen TV and A/V Plugins</string>
-		<string>Cyber Lounge with Wi-Fi, iMacs and Printing Station</string>
-		<string>Media/Game Room</string>
-	</array>
-	<array>
-		<string>RELAX</string>
-		<string>Two Pools: One Active, One Cocktail with Splash Deck, Outdoor Kitchen and Grills</string>
-		<string>Sky Lounge with Bar, Kitchenette, TVs and Fireplace</string>
-		<string>Lushly Landscaped Courtyards</string>
-		<string>Tanning Room</string>
-	</array>
-	<array>
-		<string>RETREAT</string>
-		<string>10-Foot Ceilings</string>
-		<string>Island Kitchen</string>
-		<string>Quartz Countertops</string>
-		<string>Concrete and Bamboo Flooring</string>
-		<string>Garden Tubs and Standalone Showers</string>
-	</array>
-	<array>
-		<string>AND THE REST...</string>
-		<string>Five Outdoor Eating Areas with Grills</string>
-		<string>Pet Park with Watering Station</string>
-		<string>Secured Parking Garage</string>
-		<string>LEED Certified</string>
-		<string>*Features and amenities are subject to change.</string>
+		<string>LIVING AT SHARON SQUARE</string>
+		<string>        Mixed use development with fine dining, sidewalk cafes ad boutiques</string>
+		<string>        Adjacent to Whole Foods Market and Phillips Place</string>
+		<string>        Controlled-entry building and covered tenant parking with elevator access</string>
+		<string>        Numerous guest parking options: on-street, surface lot, and decks</string>
+		<string>        100% smoke free building</string>
+		<string>        Saltwater pool and sundeck with grilling station</string>
+		<string>        Landscaped terraces for games, gatherings and relaxation</string>
+		<string>        Club and game rooms for receptions and entertainment</string>
+		<string>        Modern fitness center with electronic workout stations</string>
+		<string>        Pet friendly</string>
 	</array>
 </array>
 </plist>
