@@ -488,7 +488,7 @@
 		6A0E4B751822FF4100EFC706 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 		6A0E4B761822FF4100EFC706 /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
 		6A165E20182306F500211C7B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "Avenue R/Images.xcassets"; sourceTree = SOURCE_ROOT; };
-		A80AA346130DFB11009F5585 /* Avenue R.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Avenue R.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A80AA346130DFB11009F5585 /* Avenue R.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Avenue R.app"; path = "Solis Sharon Square.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A80AA34A130DFB11009F5585 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		A80AA34C130DFB11009F5585 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A80AA34E130DFB11009F5585 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };

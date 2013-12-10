@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A80AA345130DFB11009F5585"
-               BuildableName = "Avenue R.app"
+               BuildableName = "Solis Sharon Square.app"
                BlueprintName = "Solis Sharon Square"
                ReferencedContainer = "container:MoLease.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A80AA345130DFB11009F5585"
-            BuildableName = "Avenue R.app"
+            BuildableName = "Solis Sharon Square.app"
             BlueprintName = "Solis Sharon Square"
             ReferencedContainer = "container:MoLease.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A80AA345130DFB11009F5585"
-            BuildableName = "Avenue R.app"
+            BuildableName = "Solis Sharon Square.app"
             BlueprintName = "Solis Sharon Square"
             ReferencedContainer = "container:MoLease.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A80AA345130DFB11009F5585"
-            BuildableName = "Avenue R.app"
+            BuildableName = "Solis Sharon Square.app"
             BlueprintName = "Solis Sharon Square"
             ReferencedContainer = "container:MoLease.xcodeproj">
          </BuildableReference>

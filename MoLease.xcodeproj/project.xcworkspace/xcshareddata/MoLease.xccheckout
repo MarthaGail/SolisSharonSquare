@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>30E0408C-30EB-40F2-BFEC-6CD688084E8C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MoLease</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2CDF91D6-0706-4222-9D70-623D274CE7A1</key>
+		<string>https://github.com/MarthaGail/SolisSharonSquare.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MoLease.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2CDF91D6-0706-4222-9D70-623D274CE7A1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MarthaGail/SolisSharonSquare.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2CDF91D6-0706-4222-9D70-623D274CE7A1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2CDF91D6-0706-4222-9D70-623D274CE7A1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SolisSharonSquare</string>
+		</dict>
+	</array>
+</dict>
+</plist>
