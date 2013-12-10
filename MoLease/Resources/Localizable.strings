@@ -25,7 +25,7 @@
  */
 
 /* title of the app */
-"APP TITLE" = "Avenue R";
+"APP TITLE" = "Solis Sharon Square";
 
 /* amenities title */
 "AMENITIES TITLE" = "Amenities";
@@ -103,10 +103,10 @@
 "EMAIL BUTTON" = "EMAIL";
 
 /* email subject */
-"EMAIL SUBJECT" = "Avenue R Web Inquiry";
+"EMAIL SUBJECT" = "Solis Sharon Square Web Inquiry";
 
 /* email body w/html */
-"EMAIL BODY" = "Hello. Please send me more information about living at Avenue R Luxury Apartments.<br />Thanks!";
+"EMAIL BODY" = "Hello. Please send me more information about living at Solis Sharon Square Luxury Apartments.<br />Thanks!";
 
 /*
  * FLOORPLAN FIELDS
@@ -132,42 +132,42 @@
 "FLOORPLAN SHARE MORE" = "More sharing options...";
 
 /* floorplan email subject */
-"FLOORPLAN EMAIL SUBJECT" = "Floor plans at Avenue R";
+"FLOORPLAN EMAIL SUBJECT" = "Floor plans at Solis Sharon Square";
 
 /* floorplan email body w/html */
 /* 1st %@ = floorplan name
  * 2nd %@ = floorplan description
  * 3rd %@ = floorplan email
  */
-"FLOORPLAN EMAIL BODY" = "Check out the %@ floorplan at Avenue R: %@ %@";
+"FLOORPLAN EMAIL BODY" = "Check out the %@ floorplan at Solis Sharon Square: %@ %@";
 
 /* floorplan sms body */
 /* 1st %@ = floorplan name
  * 2nd %@ = floorplan description
  * 3rd %@ = floorplan email
  */
-"FLOORPLAN SMS BODY" = "Check out the %@ floorplan at Avenue R: %@ %@";
+"FLOORPLAN SMS BODY" = "Check out the %@ floorplan at Solis Sharon Square: %@ %@";
 
 /* floorplan sharekit body w/html */
 /* 1st %@ = floorplan name
  * 2nd %@ = floorplan description
  * (url is also included, but not in this text)
  */
-"FLOORPLAN SHAREKIT BODY" = "Check out the %@ floorplan at Avenue R: %@";
+"FLOORPLAN SHAREKIT BODY" = "Check out the %@ floorplan at Solis Sharon Square: %@";
 
 /*
  * PHOTO GALLERY
  */
 
 /* photo share body */
-"GALLERY SHARE BODY" = "Love Where you Live: Avenue R";
+"GALLERY SHARE BODY" = "Love Where you Live: Solis Sharon Square";
 
 /*
  * PLACES
  */
 
 /* home location title */
-"HOME TITLE" = "Avenue R";
+"HOME TITLE" = "Solis Sharon Square";
 
 
 

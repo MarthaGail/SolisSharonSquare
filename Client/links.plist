@@ -8,51 +8,31 @@
 			<array>
 				<dict>
 					<key>name</key>
-					<string>facebook</string>
+					<string>Facebook</string>
 					<key>url</key>
-					<string>https://www.facebook.com/AvenueRApartments</string>
+					<string>https://www.facebook.com/SolisSharonSquare</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Twitter</string>
+					<key>url</key>
+					<string>https://twitter.com/SolisSquare</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Instagram</string>
+					<key>url</key>
+					<string>http://instagram.com/SolisSharonSquare</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Pinterest</string>
+					<key>url</key>
+					<string>http://www.pinterest.com/SolisSharon</string>
 				</dict>
 			</array>
 			<key>title</key>
-			<string>social media</string>
-		</dict>
-		<dict>
-			<key>links</key>
-			<array>
-				<dict>
-					<key>name</key>
-					<string>the galleria</string>
-					<key>url</key>
-					<string>http://www.simon.com/mall/the-galleria</string>
-				</dict>
-			</array>
-			<key>title</key>
-			<string>major shopping</string>
-		</dict>
-		<dict>
-			<key>links</key>
-			<array>
-				<dict>
-					<key>name</key>
-					<string>pay rent</string>
-					<key>url</key>
-					<string>https://property.onesite.realpage.com/templates/template_08residentportal/login/login.asp?w=avenuer</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>maintenance request</string>
-					<key>url</key>
-					<string>https://property.onesite.realpage.com/templates/template_08residentportal/login/login.asp?w=avenuer</string>
-				</dict>
-				<dict>
-					<key>name</key>
-					<string>AvenueR.com</string>
-					<key>url</key>
-					<string>http://avenuer.com/</string>
-				</dict>
-			</array>
-			<key>title</key>
-			<string>residents</string>
+			<string>SOCIAL MEDIA</string>
 		</dict>
 	</array>
 </array>
