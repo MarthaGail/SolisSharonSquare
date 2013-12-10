@@ -30,7 +30,7 @@
  * table font, floor plans
  */
 - (UIFont *)tableFont {
-    return [UIFont fontWithName:@"Avenir-Book" size:25];
+    return [UIFont fontWithName:@"Avenir-Heavy" size:17];
 }
 
 /**
