@@ -66,8 +66,8 @@
 		6A0E4B6E1822F70E00EFC706 /* icon~120.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0E4B681822F70E00EFC706 /* icon~120.png */; };
 		6A0E4B6F1822F70E00EFC706 /* icon~152.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0E4B691822F70E00EFC706 /* icon~152.png */; };
 		6A0E4B731822FE0D00EFC706 /* icon~144.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0E4B721822FE0D00EFC706 /* icon~144.png */; };
-		6A0E4B771822FF4100EFC706 /* icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0E4B741822FF4100EFC706 /* icon-72.png */; };
-		6A0E4B781822FF4100EFC706 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0E4B751822FF4100EFC706 /* icon.png */; };
+		6A0E4B771822FF4100EFC706 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0E4B741822FF4100EFC706 /* Icon.png */; };
+		6A0E4B781822FF4100EFC706 /* Icon~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0E4B751822FF4100EFC706 /* Icon~iphone.png */; };
 		6A0E4B791822FF4100EFC706 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0E4B761822FF4100EFC706 /* icon@2x.png */; };
 		6A165E21182306F500211C7B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6A165E20182306F500211C7B /* Images.xcassets */; };
 		6AEEEEF31857828F00DE1438 /* FeaturesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AEEEEF21857828F00DE1438 /* FeaturesViewController.m */; };
@@ -480,8 +480,8 @@
 		6A0E4B681822F70E00EFC706 /* icon~120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon~120.png"; sourceTree = "<group>"; };
 		6A0E4B691822F70E00EFC706 /* icon~152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon~152.png"; sourceTree = "<group>"; };
 		6A0E4B721822FE0D00EFC706 /* icon~144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon~144.png"; sourceTree = "<group>"; };
-		6A0E4B741822FF4100EFC706 /* icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-72.png"; sourceTree = "<group>"; };
-		6A0E4B751822FF4100EFC706 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		6A0E4B741822FF4100EFC706 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		6A0E4B751822FF4100EFC706 /* Icon~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon~iphone.png"; sourceTree = "<group>"; };
 		6A0E4B761822FF4100EFC706 /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
 		6A165E20182306F500211C7B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "Avenue R/Images.xcassets"; sourceTree = SOURCE_ROOT; };
 		6AEEEEF11857828F00DE1438 /* FeaturesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FeaturesViewController.h; sourceTree = "<group>"; };
@@ -1176,8 +1176,8 @@
 		A8FB6CA6130F9F9D00D39652 /* icons */ = {
 			isa = PBXGroup;
 			children = (
-				6A0E4B741822FF4100EFC706 /* icon-72.png */,
-				6A0E4B751822FF4100EFC706 /* icon.png */,
+				6A0E4B741822FF4100EFC706 /* Icon.png */,
+				6A0E4B751822FF4100EFC706 /* Icon~iphone.png */,
 				6A0E4B761822FF4100EFC706 /* icon@2x.png */,
 				6A0E4B661822F70E00EFC706 /* icon~76.png */,
 				6A0E4B681822F70E00EFC706 /* icon~120.png */,
@@ -1593,8 +1593,8 @@
 				CB9FB3BA15BF45A0000AD4FE /* 11_thumb.png in Resources */,
 				CB9FB3BB15BF45A0000AD4FE /* 11.png in Resources */,
 				6A0E4B5F1822E8B200EFC706 /* 42.jpg in Resources */,
-				6A0E4B771822FF4100EFC706 /* icon-72.png in Resources */,
-				6A0E4B781822FF4100EFC706 /* icon.png in Resources */,
+				6A0E4B771822FF4100EFC706 /* Icon.png in Resources */,
+				6A0E4B781822FF4100EFC706 /* Icon~iphone.png in Resources */,
 				CB729FE0160BA78B00C21A45 /* pin.png in Resources */,
 				CB71BAD3167EACC10036E4F4 /* EurostileRegular.otf in Resources */,
 				CB71BAD5167EACCC0036E4F4 /* Eurostile-ExtendedTwo.otf in Resources */,
@@ -1852,7 +1852,7 @@
 					armv6,
 					armv7,
 				);
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -1883,7 +1883,7 @@
 					armv7,
 					armv6,
 				);
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -1997,7 +1997,7 @@
 					armv6,
 					armv7,
 				);
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
