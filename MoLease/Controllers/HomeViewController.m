@@ -101,13 +101,13 @@
                                                             canDelete:NO] autorelease],
                                [[[TTLauncherItem alloc] initWithTitle:@"APPLY"
                                                                 image:[NSString stringWithFormat:@"bundle://icon_news%@", _extension]
-                                                                  //URL:@"mo://news"
-                                                                  URL:@"https://www.facebook.com/AvenueRApartments"
+                                 //URL:NSLocalizedString(@"VIDEOS URL", @"videos url")
+                                                                  URL:@""
                                                             canDelete:NO] autorelease],
                                [[[TTLauncherItem alloc] initWithTitle:@"RESIDENTS"
                                                                 image:[NSString stringWithFormat:@"bundle://icon_video%@", _extension]
-                                                                  //URL:NSLocalizedString(@"VIDEOS URL", @"videos url")
-                                                                  URL:@""
+                                                                  //URL:@"mo://news"
+                                                                  URL:@"http://property.onesite.realpage.com/solissharonsquare/?portallogin=1"
                                                             canDelete:NO] autorelease],
                                nil];
         
@@ -137,7 +137,7 @@
 - (void)launcherView:(TTLauncherView*)launcher didSelectItem:(TTLauncherItem*)item {
     
     if ([[item title] isEqualToString:@"APPLY"]) {
-        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://property.onesite.realpage.com/crossfire/availability/default.aspx?s=2849831"]];
+        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://property.onesite.realpage.com/ol2m/?s=3108045"]];
         return;
     }
     
