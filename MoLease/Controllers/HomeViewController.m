@@ -75,6 +75,10 @@
                                                                 image:[NSString stringWithFormat:@"bundle://icon_floorplans%@", _extension]
                                                                   URL:@"mo://floorplans" 
                                                             canDelete:NO] autorelease],
+                               [[[TTLauncherItem alloc] initWithTitle:@"GALLERY"
+                                                                image:[NSString stringWithFormat:@"bundle://icon_gallery%@", _extension]
+                                                                  URL:@"mo://photos"
+                                                            canDelete:NO] autorelease],
                                [[[TTLauncherItem alloc] initWithTitle:@"FEATURES"
                                                                 image:[NSString stringWithFormat:@"bundle://icon_features%@", _extension]
                                                                   URL:@"mo://features"
@@ -82,10 +86,6 @@
                                [[[TTLauncherItem alloc] initWithTitle:@"PLACES"
                                                                 image:[NSString stringWithFormat:@"bundle://icon_places%@", _extension]
                                                                   URL:@"mo://places" 
-                                                            canDelete:NO] autorelease],
-                               [[[TTLauncherItem alloc] initWithTitle:@"GALLERY"
-                                                                image:[NSString stringWithFormat:@"bundle://icon_gallery%@", _extension]
-                                                                  URL:@"mo://photos" 
                                                             canDelete:NO] autorelease],
                                [[[TTLauncherItem alloc] initWithTitle:@""
                                                                 image:@""
@@ -95,16 +95,16 @@
                                                                 image:[NSString stringWithFormat:@"bundle://icon_amenities%@", _extension]
                                                                   URL:@"mo://amenities" 
                                                             canDelete:NO] autorelease],
-                               [[[TTLauncherItem alloc] initWithTitle:@"LINKS"
+                               [[[TTLauncherItem alloc] initWithTitle:@"SOCIAL"
                                                                 image:[NSString stringWithFormat:@"bundle://icon_links%@", _extension]
                                                                   URL:@"mo://links" 
                                                             canDelete:NO] autorelease],
-                               [[[TTLauncherItem alloc] initWithTitle:@"SOCIAL"
+                               [[[TTLauncherItem alloc] initWithTitle:@"APPLY"
                                                                 image:[NSString stringWithFormat:@"bundle://icon_news%@", _extension]
                                                                   //URL:@"mo://news"
                                                                   URL:@"https://www.facebook.com/AvenueRApartments"
                                                             canDelete:NO] autorelease],
-                               [[[TTLauncherItem alloc] initWithTitle:@"APPLY"
+                               [[[TTLauncherItem alloc] initWithTitle:@"RESIDENTS"
                                                                 image:[NSString stringWithFormat:@"bundle://icon_video%@", _extension]
                                                                   //URL:NSLocalizedString(@"VIDEOS URL", @"videos url")
                                                                   URL:@""
