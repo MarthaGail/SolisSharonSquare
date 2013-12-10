@@ -108,15 +108,15 @@
                                                                  control:_specialNotes];
     
     _phoneField = [[UITextField alloc] init];
-    _phoneField.text = @"     713.572.4300";
+    _phoneField.text = @"      866.245.8759";
     _phoneField.enabled = NO;
     
     _addressField1 = [[UITextField alloc] init];
-    _addressField1.text = @" 5455 Richmond Avenue";
+    _addressField1.text = @" 4905 Ashley Park Lane";
     _addressField1.enabled = NO;
     
     _addressField2 = [[UITextField alloc] init];
-    _addressField2.text = @"   Houston, TX 77056";
+    _addressField2.text = @"    Charlotte, NC 28210";
     _addressField2.enabled = NO;
         
     TTTableControlItem *_phoneFieldItem = [TTTableControlItem itemWithCaption:@"PHONE: "
