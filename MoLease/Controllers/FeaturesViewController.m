@@ -10,6 +10,10 @@
 @implementation FeaturesViewController
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
+    
+    _hasHeaderView = YES;
+    _headerURL = @"bundle://header_features%@";
+    
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
         // Custom initialization.
