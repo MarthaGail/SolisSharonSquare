@@ -5,18 +5,18 @@
 	<dict>
 		<key>Public Schools</key>
 		<string>school</string>
-		<key>Entertainment</key>
-		<string>bar</string>
-		<key>Grocery Stores</key>
-		<string>grocery_or_supermarket</string>
 		<key>Banks</key>
 		<string>bank</string>
-		<key>Restaurants</key>
-		<string>restaurant</string>
-		<key>Gym</key>
-		<string>gym</string>
+		<key>Entertainment</key>
+		<string>bar</string>
 		<key>Shopping</key>
 		<string>store</string>
+		<key>Grocery Stores</key>
+		<string>grocery_or_supermarket</string>
+		<key>Cafés</key>
+		<string>cafe</string>
+		<key>Restaurants</key>
+		<string>restaurant</string>
 	</dict>
 </array>
 </plist>

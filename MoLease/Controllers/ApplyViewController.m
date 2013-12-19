@@ -144,7 +144,7 @@
                        // CONTACT INFO
                        [NSArray arrayWithObjects:
                         [TTTableStyledTextItem itemWithText:
-                         [TTStyledText textFromXHTML:@"<div class=\"headerCell\">contact Avenue R</div>"]],
+                         [TTStyledText textFromXHTML:@"<div class=\"headerCell\">CONTACT SOLIS SHARON SQUARE</div>"]],
                         _phoneFieldItem, _addressFieldItem, _addressField2Item, nil],
                         nil]
 

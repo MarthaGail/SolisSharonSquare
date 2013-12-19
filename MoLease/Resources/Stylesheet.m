@@ -23,7 +23,7 @@
  * table header font, amenities
  */
 - (UIFont *)tableHeaderPlainFont {
-    return [UIFont fontWithName:@"Avenir-Black" size:25];
+    return [UIFont fontWithName:@"Avenir-Black" size:17];
 }
 
 /**
@@ -134,7 +134,7 @@
 }
 
 - (UIColor *)tableHeaderShadowColor {
-    return RGBACOLOR(103, 103, 103, 1);
+    return RGBACOLOR(255, 255, 255, 0);
 }
 
 // link headers, floor plan detail headers

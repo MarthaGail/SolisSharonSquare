@@ -15,10 +15,10 @@
 "EMAIL ADDRESS" = "sharonsquare@newhome1.com";
 
 /* latitude */
-"LATITUDE" = "35.146421";
+"LATITUDE" = "35.14809985446331";
 
 /* longitude */
-"LONGITUDE" = "-80.831798";
+"LONGITUDE" = "-80.83072364330292";
 
 /*
  * TITLES
@@ -73,7 +73,7 @@
  */
 
 /* apply table section title w/html */
-"APPLY TABLE TITLE" = "<div class=\"headerCell\">information</div>";
+"APPLY TABLE TITLE" = "<div class=\"headerCell\">INFORMATION</div>";
 
 /* name field */
 "NAME FIELD" = "NAME: ";

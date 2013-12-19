@@ -7,15 +7,15 @@
 		<array>
 			<dict>
 				<key>bathrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>bedrooms</key>
-				<string>Studio</string>
+				<string>STUDIO</string>
 				<key>name</key>
-				<string>The Simon</string>
+				<string>THE SIMON</string>
 				<key>short</key>
 				<string>1</string>
 				<key>short_description</key>
-				<string>Studio, 1 Bath, 591 sq ft</string>
+				<string>STUDIO, 1 BATH, 591 SQ FT</string>
 				<key>sqft</key>
 				<string>591</string>
 				<key>url</key>
@@ -23,15 +23,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>bedrooms</key>
-				<string>Studio</string>
+				<string>STUDIO</string>
 				<key>name</key>
-				<string>The Crew</string>
+				<string>THE CREW</string>
 				<key>short</key>
 				<string>2</string>
 				<key>short_description</key>
-				<string>Studio, 1 Bath, 641 sq ft</string>
+				<string>STUDIO, 1 BATH, 641 SQ FT</string>
 				<key>sqft</key>
 				<string>641</string>
 				<key>url</key>
@@ -39,17 +39,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>bedrooms</key>
-				<string>Studio</string>
+				<string>STUDIO</string>
 				<key>name</key>
-				<string>The Crew</string>
+				<string>THE CREW</string>
 				<key>short</key>
 				<string>3</string>
-				<key>New item</key>
-				<string></string>
 				<key>short_description</key>
-				<string>Studo, 1 Bath, 620 sq ft</string>
+				<string>STUDIO, 1 BATH, 620 SQ FT</string>
 				<key>sqft</key>
 				<string>620</string>
 				<key>url</key>
@@ -64,15 +62,15 @@
 		<array>
 			<dict>
 				<key>bathrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>bedrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>name</key>
-				<string>The Lily</string>
+				<string>THE LILY</string>
 				<key>short</key>
 				<string>4</string>
 				<key>short_description</key>
-				<string>1 Bed, 1 Bath, 675 sq ft</string>
+				<string>1 BEDROOM, 1 BATH, 675 SQ FT</string>
 				<key>sqft</key>
 				<string>675</string>
 				<key>url</key>
@@ -80,15 +78,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>bedrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>name</key>
-				<string>The Louis</string>
+				<string>THE LOUIS</string>
 				<key>short</key>
 				<string>5</string>
 				<key>short_description</key>
-				<string>1 Bed, 1 Bath, 716 sq ft</string>
+				<string>1 BEDROOM, 1 BATH, 716 SQ FT</string>
 				<key>sqft</key>
 				<string>716</string>
 				<key>url</key>
@@ -96,15 +94,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>bedrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>name</key>
-				<string>The Louis</string>
+				<string>THE LOUIS</string>
 				<key>short</key>
 				<string>6</string>
 				<key>short_description</key>
-				<string>1 Bed, 1 Bath, 736 sq ft</string>
+				<string>1 BEDROOM, 1 BATH, 736 SQ FT</string>
 				<key>sqft</key>
 				<string>736</string>
 				<key>url</key>
@@ -112,15 +110,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>bedrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>name</key>
-				<string>The TIffany</string>
+				<string>THE TIFFANY</string>
 				<key>short</key>
 				<string>7</string>
 				<key>short_description</key>
-				<string>1 Bed, 1 Bath, 716 sq ft</string>
+				<string>1 BEDROOM, 1 BATH, 716 SQ FT</string>
 				<key>sqft</key>
 				<string>716</string>
 				<key>url</key>
@@ -128,15 +126,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>bedrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>name</key>
-				<string>The Tiffany</string>
+				<string>THE TIFFANY</string>
 				<key>short</key>
 				<string>8</string>
 				<key>short_description</key>
-				<string>1 Bed, 1 Bath, 789 sq ft</string>
+				<string>1 BEDROOM, 1 BATH, 789 SQ FT</string>
 				<key>sq ft</key>
 				<string>789</string>
 				<key>url</key>
@@ -144,15 +142,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>bedrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>name</key>
-				<string>The Yurman</string>
+				<string>THE YURMAN</string>
 				<key>short</key>
 				<string>9</string>
 				<key>short_description</key>
-				<string>1 Bed, 1 Bath, 835 sq ft</string>
+				<string>1 BEDROOM, 1 BATH, 835 SQ FT</string>
 				<key>sqft</key>
 				<string>835</string>
 				<key>url</key>
@@ -160,15 +158,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>bedrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>name</key>
-				<string>The Yurman</string>
+				<string>THE YURMAN</string>
 				<key>short</key>
 				<string>10</string>
 				<key>short_description</key>
-				<string>1 Bed, 1 Bath, 874 sq ft</string>
+				<string>1 BEDROOM, 1 BATH, 874 SQ FT</string>
 				<key>sqft </key>
 				<string>874</string>
 				<key>url</key>
@@ -176,15 +174,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>bedrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>name</key>
-				<string>The Paul</string>
+				<string>THE PAUL</string>
 				<key>short</key>
 				<string>11</string>
 				<key>short_description</key>
-				<string>1 Bed, 1 Bath, 897 sq ft</string>
+				<string>1 BEDROOM, 1 BATH, 897 SQ FT</string>
 				<key>sqft </key>
 				<string>897</string>
 				<key>url</key>
@@ -192,15 +190,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>bedrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>name</key>
-				<string>The Paul</string>
+				<string>THE PAUL</string>
 				<key>short</key>
 				<string>12</string>
 				<key>short_description</key>
-				<string>1 Bed, 1 Bath, 889 sq ft</string>
+				<string>1 BEDROOM, 1 BATH, 889 SQ FT</string>
 				<key>sqft </key>
 				<string>889</string>
 				<key>url</key>
@@ -208,15 +206,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>bedrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>name</key>
-				<string>The Paul</string>
+				<string>THE PAUL</string>
 				<key>short</key>
 				<string>13</string>
 				<key>short_description</key>
-				<string>1 Bed, 1 Bath, 1005 sq ft</string>
+				<string>1 BEDROOM, 1 BATH, 1005 SQ FT</string>
 				<key>sqft </key>
 				<string>1005</string>
 				<key>url</key>
@@ -224,15 +222,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>bedrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>name</key>
-				<string>The Kate</string>
+				<string>THE KATE</string>
 				<key>short</key>
 				<string>14</string>
 				<key>short_description</key>
-				<string>1 Bed, 1 Bath, 922 sq ft</string>
+				<string>1 BEDROOM, 1 BATH, 922 SQ FT</string>
 				<key>sqft </key>
 				<string>922</string>
 				<key>url</key>
@@ -240,15 +238,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>bedrooms</key>
-				<string>One</string>
+				<string>ONE</string>
 				<key>name</key>
-				<string>The Jack</string>
+				<string>THE JACK</string>
 				<key>short</key>
 				<string>15</string>
 				<key>short_description</key>
-				<string>1 Bed, 1 Bath, 955 sq ft</string>
+				<string>1 BEDROOM, 1 BATH, 955 SQ FT</string>
 				<key>sqft </key>
 				<string>955</string>
 				<key>url</key>
@@ -263,15 +261,15 @@
 		<array>
 			<dict>
 				<key>bathrooms</key>
-				<string>Two</string>
+				<string>TWO</string>
 				<key>bedrooms</key>
-				<string>Two</string>
+				<string>TWO</string>
 				<key>name</key>
-				<string>The Benetton</string>
+				<string>THE BENETTON</string>
 				<key>short</key>
 				<string>16</string>
 				<key>short_description</key>
-				<string>2 Bed, 2 Bath, 1079 sq ft</string>
+				<string>2 BEDROOM, 2 BATH, 1079 SQ FT</string>
 				<key>sqft</key>
 				<string>1079</string>
 				<key>url</key>
@@ -279,15 +277,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>Two</string>
+				<string>TWO</string>
 				<key>bedrooms</key>
-				<string>Two</string>
+				<string>TWO</string>
 				<key>name</key>
-				<string>The Neiman</string>
+				<string>THE NEIMAN</string>
 				<key>short</key>
 				<string>17</string>
 				<key>short_description</key>
-				<string>2 Bed, 2 Bath, 1111 sq ft</string>
+				<string>2 BEDROOM, 2 BATH, 1111 SQ FT</string>
 				<key>sqft</key>
 				<string>1111</string>
 				<key>url</key>
@@ -295,15 +293,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>Two</string>
+				<string>TWO</string>
 				<key>bedrooms</key>
-				<string>Two</string>
+				<string>TWO</string>
 				<key>name</key>
-				<string>The Brooks</string>
+				<string>THE BROOKS</string>
 				<key>short</key>
 				<string>18</string>
 				<key>short_description</key>
-				<string>2 Bed, 2 Bath, 1135 sq ft</string>
+				<string>2 BEDROOM, 2 BATH, 1135 SQ FT</string>
 				<key>sqft</key>
 				<string>1135</string>
 				<key>url</key>
@@ -311,15 +309,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>Two</string>
+				<string>TWO</string>
 				<key>bedrooms</key>
-				<string>Two</string>
+				<string>TWO</string>
 				<key>name</key>
-				<string>The Brooks</string>
+				<string>THE BROOKS</string>
 				<key>short</key>
 				<string>19</string>
 				<key>short_description</key>
-				<string>2 Bed, 2 Bath, 1155 sq ft</string>
+				<string>2 BEDROOM, 2 BATH, 1155 SQ FT</string>
 				<key>sqft</key>
 				<string>1155</string>
 				<key>url</key>
@@ -327,15 +325,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>Two</string>
+				<string>TWO</string>
 				<key>bedrooms</key>
-				<string>Two</string>
+				<string>TWO</string>
 				<key>name</key>
-				<string>The Murphy</string>
+				<string>THE MURPHY</string>
 				<key>short</key>
 				<string>20</string>
 				<key>short_description</key>
-				<string>2 Bed, 2 Bath, 1285 sq ft</string>
+				<string>2 BEDROOM, 2 BATH, 1285 SQ FT</string>
 				<key>sqft</key>
 				<string>1285</string>
 				<key>url</key>
@@ -343,15 +341,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>Two</string>
+				<string>TWO</string>
 				<key>bedrooms</key>
-				<string>Two</string>
+				<string>TWO </string>
 				<key>name</key>
-				<string>The Johnston</string>
+				<string>THE JOHNSTON</string>
 				<key>short</key>
 				<string>21</string>
 				<key>short_description</key>
-				<string>2 Bed, 2 Bath, 1289 sq ft</string>
+				<string>2 BEDROOM, 2 BATH, 1289 SQ FT</string>
 				<key>sqft</key>
 				<string>1289</string>
 				<key>url</key>
@@ -359,15 +357,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>Two</string>
+				<string>TWO</string>
 				<key>bedrooms</key>
-				<string>Two</string>
+				<string>TWO</string>
 				<key>name</key>
-				<string>The Cole</string>
+				<string>THE COLE</string>
 				<key>short</key>
 				<string>22</string>
 				<key>short_description</key>
-				<string>2 Bed, 2 Bath, 1299 sq ft</string>
+				<string>2 BEDROOM, 2 BATH, 1299 SQ FT</string>
 				<key>sqft</key>
 				<string>1299</string>
 				<key>url</key>
@@ -375,15 +373,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>Two</string>
+				<string>TWO</string>
 				<key>bedrooms</key>
-				<string>Two</string>
+				<string>TWO</string>
 				<key>name</key>
-				<string>The Blanc</string>
+				<string>THE BLANC</string>
 				<key>short</key>
 				<string>23</string>
 				<key>short_description</key>
-				<string>2 Bed, 2 Bath, 1322 sq ft</string>
+				<string>2 BEDROOM, 2 BATH, 1322 SQ FT</string>
 				<key>sqft</key>
 				<string>1322</string>
 				<key>url</key>
@@ -391,15 +389,15 @@
 			</dict>
 			<dict>
 				<key>bathrooms</key>
-				<string>Two</string>
+				<string>TWO</string>
 				<key>bedrooms</key>
-				<string>Two</string>
+				<string>TWO</string>
 				<key>name</key>
-				<string>The Thomas</string>
+				<string>THE THOMAS</string>
 				<key>short</key>
 				<string>24</string>
 				<key>short_description</key>
-				<string>2 Bed, 2 Bath, 1545 sq ft</string>
+				<string>2 BEDROOM, 2 BATH, 1545 SQ FT</string>
 				<key>sqft</key>
 				<string>1545</string>
 				<key>url</key>
