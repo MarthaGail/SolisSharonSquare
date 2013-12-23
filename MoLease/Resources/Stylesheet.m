@@ -140,7 +140,7 @@
 
 // link headers, floor plan detail headers
 - (TTStyle *)headerCell {
-    return [TTTextStyle styleWithFont:[UIFont fontWithName:@"Avenir-Black" size:25]
+    return [TTTextStyle styleWithFont:[UIFont fontWithName:@"Avenir-Black" size:22]
                                 color:RGBACOLOR(189, 47, 42, 1)
                       minimumFontSize:30
                           shadowColor:RGBACOLOR(255, 255, 255, 0)
