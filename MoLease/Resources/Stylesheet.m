@@ -23,7 +23,7 @@
  * table header font, amenities
  */
 - (UIFont *)tableHeaderPlainFont {
-    return [UIFont fontWithName:@"Avenir-Black" size:25];
+    return [UIFont fontWithName:@"Avenir-Heavy" size:24];
 }
 
 /**
@@ -140,7 +140,7 @@
 
 // link headers, floor plan detail headers
 - (TTStyle *)headerCell {
-    return [TTTextStyle styleWithFont:[UIFont fontWithName:@"Avenir-Black" size:22]
+    return [TTTextStyle styleWithFont:[UIFont fontWithName:@"Avenir-Heavy" size:17]
                                 color:RGBACOLOR(189, 47, 42, 1)
                       minimumFontSize:30
                           shadowColor:RGBACOLOR(255, 255, 255, 0)
@@ -157,7 +157,7 @@
 - (TTStyle *)emailButton:(UIControlState)state {
     return [TTShapeStyle styleWithShape:[TTRectangleShape shape] next:
             [TTSolidFillStyle styleWithColor:RGBACOLOR(151, 200, 71, 1) next:
-             [TTTextStyle styleWithFont:[UIFont fontWithName:@"Avenir-Heavy" size:17]
+             [TTTextStyle styleWithFont:[UIFont fontWithName:@"Avenir-Heavy" size:24]
                                   color:RGBACOLOR(0, 0, 0, 1)
                         minimumFontSize:14
                             shadowColor:nil

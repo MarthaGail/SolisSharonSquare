@@ -25,7 +25,7 @@
 
 - (void)viewDidLoad
 {
-    [self.tableView setSeparatorColor:[UIColor whiteColor]];
+    [self.tableView setSeparatorColor:RGBACOLOR(255, 255, 255, 0)];
 }
 
 - (void)createModel {
