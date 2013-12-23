@@ -152,7 +152,6 @@
                                  next:nil];
 }
 
-
 #pragma mark - Buttons
 
 - (TTStyle *)emailButton:(UIControlState)state {
