@@ -16,14 +16,14 @@
  * main app font
  */
 - (UIFont *)font {
-    return [UIFont fontWithName:@"Avenir-Heavy" size:14];
+    return [UIFont fontWithName:@"Avenir-Heavy" size:15];
 }
 
 /**
  * table header font, amenities
  */
 - (UIFont *)tableHeaderPlainFont {
-    return [UIFont fontWithName:@"Avenir-Black" size:17];
+    return [UIFont fontWithName:@"Avenir-Black" size:25];
 }
 
 /**
@@ -98,14 +98,15 @@
 - (TTStyle*)launcherButton:(UIControlState)state { 
     float _textSize = 15;
     
-    if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad) _textSize = 17;
+    if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad) _textSize = 16;
     
 	return 
     [TTPartStyle styleWithName:@"image" style:TTSTYLESTATE 
 	 (launcherButtonImage:, state) next: 
 	 [TTTextStyle styleWithFont:[UIFont fontWithName:@"Avenir-Heavy" size:_textSize]
-						  color:[UIColor blackColor]
-				minimumFontSize:11 shadowColor:RGBCOLOR(92,92,92)
+						  color:RGBACOLOR(106, 115, 123, 1)
+                minimumFontSize:11
+                    shadowColor:RGBCOLOR(92,92,92)
 				   shadowOffset:CGSizeMake(0, 0) next:nil]];
 } 
 
@@ -150,6 +151,7 @@
                         numberOfLines:1
                                  next:nil];
 }
+
 
 #pragma mark - Buttons
 

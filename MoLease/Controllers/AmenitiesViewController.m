@@ -23,6 +23,11 @@
     return self;
 }
 
+- (void)viewDidLoad
+{
+    [self.tableView setSeparatorColor:[UIColor whiteColor]];
+}
+
 - (void)createModel {
     NSMutableArray *_sectionsArray = [NSMutableArray array];
     NSMutableArray *_itemsArray = [NSMutableArray array];
